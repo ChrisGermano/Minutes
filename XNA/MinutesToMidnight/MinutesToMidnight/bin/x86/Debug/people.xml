@@ -1,0 +1,115 @@
+﻿<People xmlns="http://schemas.datacontract.org/2004/07/MinutesToMidnight" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+	<name>people</name>
+	<people>
+		<Person>
+			<genericString>I'll let you know if I find out anything.</genericString>
+			<greetingString>How can I help, Mr. President?</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Minister of Domestic Affairs Smith</name>
+			<overlayname>null</overlayname>
+			<role>politician</role>
+			<texturename>Secretary_of_State_Smith</texturename>
+		</Person>
+		<Person>
+			<genericString>Carry on, then.</genericString>
+			<greetingString>Yes, Mr. President?</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Minister of Defense Thomason</name>
+			<overlayname>null</overlayname>
+			<role>politician</role>
+			<texturename>Secretary_of_Defense_Thomason</texturename>
+		</Person>
+		<Person>
+			<genericString>You have my condolences, sir.</genericString>
+			<greetingString>Greetings, Mr. President. Do you have questions for me?</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Borchevian Representative Dorstaak</name>
+			<overlayname>null</overlayname>
+			<role>politician</role>
+			<texturename>Representative_Dorstaak</texturename>
+		</Person>
+		<Person>
+			<genericString>Let's not waste time here, Mr. President.</genericString>
+			<greetingString>Yes? What is it?</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Mayor Milgrom</name>
+			<overlayname>null</overlayname>
+			<role>politician</role>
+			<texturename>Mayor_Milgrom</texturename>
+		</Person>
+		<Person>
+			<genericString>Yes sir.</genericString>
+			<greetingString>Mr President?</greetingString>
+			<guard>1</guard>
+			<locked>false</locked>
+			<name>Secret Service Agent</name>
+			<overlayname>null</overlayname>
+			<role>military</role>
+			<texturename>Agent_Orville</texturename>
+		</Person>
+		<Person>
+			<genericString>*Salute*</genericString>
+			<greetingString>Commander! Sir!</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Colonel Berket</name>
+			<overlayname>null</overlayname>
+			<role>military</role>
+			<texturename>Colonel_Berket</texturename>
+		</Person>
+		<Person>
+			<genericString>If you find out something important, make sure to let me know!</genericString>
+			<greetingString>Mr. President! I was hoping you'd show up!</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Isaac Brewster</name>
+			<overlayname>null</overlayname>
+			<role>civilian</role>
+			<texturename>Isaac_Brewster</texturename>
+		</Person>
+		<Person>
+			<genericString>I'm sure you're busy, don't mind me.</genericString>
+			<greetingString>Oh, Mr. President? Um, do you need me?</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Bryanne Hogan</name>
+			<overlayname>null</overlayname>
+			<role>civilian</role>
+			<texturename>Bryanne_Hogan</texturename>
+		</Person>
+		<Person>
+			<genericString>Don't forget us who got family out there, alright?</genericString>
+			<greetingString>Oh, hey Mr. President. Workin' hard?</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Max Milgrom</name>
+			<overlayname>null</overlayname>
+			<role>civilian</role>
+			<texturename>Max_Milgrom</texturename>
+		</Person>
+		<Person>
+			<genericString>Bye.</genericString>
+			<greetingString>Yes, Mr. President? What can I do for you?</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Jose Sorrez</name>
+			<overlayname>null</overlayname>
+			<role>civilian</role>
+			<texturename>Jose_Sorrez</texturename>
+		</Person>
+		<Person>
+			<genericString>Sir, once you go in there's no turning back.</genericString>
+			<greetingString>*salute*</greetingString>
+			<guard>1</guard>
+			<locked>false</locked>
+			<name>Secret Service</name>
+			<overlayname>null</overlayname>
+			<role>military</role>
+			<texturename>Agent_Orville</texturename>
+		</Person>
+  </people>
+</People>

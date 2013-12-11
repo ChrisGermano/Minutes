@@ -1,0 +1,65 @@
+<Truth xmlns="http://schemas.datacontract.org/2004/07/MinutesToMidnight" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <name>sample</name>
+  <responses>
+    <Response>
+      <dialog>My cat told me terrorists did it.</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+      <role>civilian</role>
+      <verity>false_opinion</verity>
+    </Response>
+	<Response>
+      <dialog>My dog heard a cat says terrorists did it.</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+      <role>civilian</role>
+      <verity>false_opinion</verity>
+    </Response>
+	<Response>
+      <dialog>One of my constituents' pets is spreading rumors.</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+      <role>politician</role>
+      <verity>false_opinion</verity>
+    </Response>
+	<Response>
+      <dialog>At the end of the day they're just looking for votes.</dialog>
+      <discovered>false</discovered>
+      <importance>medium</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+      <role>politician</role>
+      <verity>true_opinion</verity>
+    </Response>
+	<Response>
+      <dialog>Word on the street is a bunch of them got guns from Wal-Mart.</dialog>
+      <discovered>false</discovered>
+      <importance>medium</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+      <role>military</role>
+      <verity>false_opinion</verity>
+    </Response>
+	<Response>
+      <dialog>I did it, just kidding! Or am I?</dialog>
+      <discovered>false</discovered>
+      <importance>high</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+      <role>military</role>
+      <verity>true_opinion</verity>
+    </Response>
+  </responses>
+</Truth>

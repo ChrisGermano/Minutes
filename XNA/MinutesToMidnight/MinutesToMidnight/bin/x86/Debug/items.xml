@@ -1,0 +1,45 @@
+﻿<Items xmlns="http://schemas.datacontract.org/2004/07/MinutesToMidnight" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+	<name>items</name>
+	<items>
+		<Item>
+			<fact>Public Outcry Over Senator's War Profiteering</fact>
+			<locked>false</locked>
+			<name>Newspaper</name>
+			<overlayname>newspaperOverlay</overlayname>
+			<texturename>newspaper</texturename>
+			<type>newspaper</type>
+		</Item>
+		<Item>
+			<fact>Historic Theater Closed Due to Gas Leak</fact>
+			<locked>false</locked>
+			<name>Bulletin Board</name>
+			<overlayname>bulletinOverlay</overlayname>
+			<texturename>bulletin</texturename>
+			<type>bulletin</type>
+		</Item>
+		<Item>
+			<fact>Shiba Inu Voted Cutest Dog Breed In Reader Poll</fact>
+			<locked>false</locked>
+			<name>Terminal</name>
+			<overlayname>computerOverlay</overlayname>
+			<texturename>computer</texturename>
+			<type>computer</type>
+		</Item>
+		<Item>
+			<fact>Borchevian Politician Under Fire for Violent Comment</fact>
+			<locked>false</locked>
+			<name>Newspaper</name>
+			<overlayname>newspaperOverlay</overlayname>
+			<texturename>newspaper</texturename>
+			<type>newspaper</type>
+		</Item>
+		<Item>
+			<fact>Carlais Leader Uncomfortable with Recent Conflict</fact>
+			<locked>false</locked>
+			<name>Newspaper</name>
+			<overlayname>newspaperOverlay</overlayname>
+			<texturename>newspaper</texturename>
+			<type>newspaper</type>
+		</Item>
+	</items>
+</Items>

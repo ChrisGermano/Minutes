@@ -1,0 +1,55 @@
+<Truth xmlns="http://schemas.datacontract.org/2004/07/MinutesToMidnight" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <name>sample</name>
+  <responses>
+    <Response>
+      <dialog>It's all a conspiracy!</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>Let me tell you...</prompt>
+      <role>civilian</role>
+      <verity>false_opinion</verity>
+    </Response>
+    <Response>
+      <dialog>It's all a conspiracy!</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>Let me tell you...</prompt>
+      <role>civilian</role>
+      <verity>false_opinion</verity>
+    </Response>
+    <Response>
+      <dialog>It's all a conspiracy!</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>Let me tell you...</prompt>
+      <role>civilian</role>
+      <verity>false_opinion</verity>
+    </Response>
+    <Response>
+      <dialog>It's all a conspiracy!</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>Let me tell you...</prompt>
+      <role>military</role>
+      <verity>fact</verity>
+    </Response>
+    <Response>
+      <dialog>I am a wizard!</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>Let me tell you...</prompt>
+      <role>civilian</role>
+      <verity>false_opinion</verity>
+    </Response>
+  </responses>
+</Truth>

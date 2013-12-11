@@ -1,0 +1,105 @@
+<Truth xmlns="http://schemas.datacontract.org/2004/07/MinutesToMidnight" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <name>sample</name>
+  <responses>
+    <Response>
+      <dialog>My cat told me terrorists did it.</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+      <role>civilian</role>
+      <verity>false_opinion</verity>
+    </Response>
+    <Response>
+      <dialog>One of my constituents believes their pet knows what happened.</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+      <role>politician</role>
+      <verity>true_opinion</verity>
+    </Response>
+	<Response>
+      <dialog>I bet those Carlais bastards did it! Uh, excuse me, Sir.</dialog>
+      <discovered>false</discovered>
+      <importance>medium</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+      <role>military</role>
+      <verity>false_opinion</verity>
+    </Response>
+	<Response>
+      <dialog>Borchevia's just trying to frame Carlias, or, something.</dialog>
+      <discovered>false</discovered>
+      <importance>high</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+      <role>civilian</role>
+      <verity>true_opinion</verity>
+    </Response>
+	<Response>
+      <dialog>Call me ig'nant but I think Borchevians are a sneaky bunch.</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+      <role>civilian</role>
+      <verity>true_opinion</verity>
+    </Response>
+	<Response>
+      <dialog>Carlais is finally using the weapons they've held for so long.</dialog>
+      <discovered>false</discovered>
+      <importance>medium</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+      <role>civilian</role>
+      <verity>false_opinion</verity>
+    </Response>
+	<Response>
+      <dialog>Despite our long standing dispute with Carlais... I trust them.</dialog>
+      <discovered>false</discovered>
+      <importance>medium</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+      <role>politician</role>
+      <verity>true_opinion</verity>
+    </Response>
+	<Response>
+      <dialog>As fellow politicians we must investigate Borchevian candidates.</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+      <role>politician</role>
+      <verity>true_opinion</verity>
+    </Response>
+	<Response>
+      <dialog>I like to think I know politics, and Carlais has little to gain from this.</dialog>
+      <discovered>false</discovered>
+      <importance>high</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+      <role>politician</role>
+      <verity>true_opinion</verity>
+    </Response>
+	<Response>
+      <dialog>Carlais wants to start a war? We should bring the war to them.</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+      <role>military</role>
+      <verity>false_opinion</verity>
+    </Response>
+  </responses>
+</Truth>

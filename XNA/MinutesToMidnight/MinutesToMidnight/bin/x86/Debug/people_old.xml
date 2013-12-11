@@ -1,0 +1,65 @@
+﻿<People xmlns="http://schemas.datacontract.org/2004/07/MinutesToMidnight" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+	<name>people</name>
+	<people>
+		<Person>
+			<genericString>Good day, sir.</genericString>
+			<greetingString>Greetings, Mr. President.</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Max Milgrom</name>
+			<overlayname>null</overlayname>
+			<role>politician</role>
+			<texturename>Max_Milgrom</texturename>
+		</Person>
+		<Person>
+			<genericString>*Salute*</genericString>
+			<greetingString>Yes sir?</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Colonel Berket</name>
+			<overlayname>null</overlayname>
+			<role>military</role>
+			<texturename>Colonel_Berket</texturename>
+		</Person>
+		<Person>
+			<genericString>Oh, yes, goodbye Mr. President!</genericString>
+			<greetingString>W-w-what do you want with me?</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Jose Sorrez</name>
+			<overlayname>null</overlayname>
+			<role>civilian</role>
+			<texturename>Jose_Sorrez</texturename>
+		</Person>
+		<Person>
+			<genericString>Please don't leave I'm so lonely.</genericString>
+			<greetingString>Oh, hello Mr. President!</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Bryanne Hogan</name>
+			<overlayname>null</overlayname>
+			<role>civilian</role>
+			<texturename>Bryanne_Hogan</texturename>
+		</Person>
+		<Person>
+			<genericString>Sir, you can't go out there.</genericString>
+			<greetingString>*salute*</greetingString>
+			<guard>1</guard>
+			<locked>false</locked>
+			<name>Secret Service</name>
+			<overlayname>null</overlayname>
+			<role>military</role>
+			<texturename>Agent_Orville</texturename>
+		</Person>
+		<Person>
+			<genericString>Sir, once you go in there's no turning back.</genericString>
+			<greetingString>*salute*</greetingString>
+			<guard>1</guard>
+			<locked>false</locked>
+			<name>Secret Service</name>
+			<overlayname>null</overlayname>
+			<role>military</role>
+			<texturename>Agent_Orville</texturename>
+		</Person>
+  </people>
+</People>

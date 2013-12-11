@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MinutesToMidnight\GameWorld.cs">
+    <Files>
+      <File FileName="MinutesToMidnight\UILayer.cs" Line="1" Column="1" />
+      <File FileName="MinutesToMidnight\Person.cs" Line="1" Column="1" />
+      <File FileName="MinutesToMidnight\GameWorld.cs" Line="110" Column="30" />
+      <File FileName="MinutesToMidnight\Item.cs" Line="1" Column="1" />
+      <File FileName="MinutesToMidnight\ResponseEnums.cs" Line="1" Column="1" />
+      <File FileName="MinutesToMidnight\ChartypeEnums.cs" Line="1" Column="1" />
+      <File FileName="MinutesToMidnight\Response.cs" Line="1" Column="1" />
+      <File FileName="MinutesToMidnight\Game1.cs" Line="1" Column="1" />
+      <File FileName="MinutesToMidnight\MousePoller.cs" Line="1" Column="1" />
+      <File FileName="MinutesToMidnight\Player.cs" Line="1" Column="1" />
+      <File FileName="MinutesToMidnight\Room.cs" Line="1" Column="1" />
+      <File FileName="MinutesToMidnight\PDA.cs" Line="1" Column="1" />
+      <File FileName="MinutesToMidnight\PDAScreen.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
