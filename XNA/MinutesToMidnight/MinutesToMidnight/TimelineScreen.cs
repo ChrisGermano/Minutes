@@ -155,7 +155,7 @@ namespace MinutesToMidnight
             }
             return total_height;
         }
-        public override void AddKnowledge(PersonInfo s, Boolean isFact)
+        public override void AddKnowledge(DialogInfo s, Boolean isFact)
         {
             int y_pos = (int)(position.Y + 3);
             int total_height = 0;
@@ -167,7 +167,7 @@ namespace MinutesToMidnight
             }
 
             Vector2 newPos = new Vector2(position.X + 5, y_pos);
-            TextOverlay newFact = new TextOverlay(s.Info, newPos, s.Source, true, width - 60);
+            TextOverlay newFact = new TextOverlay(s.Info, newPos, s.Source, s.ResponsePrompt, true, width - 60);
             if (!isFact)
             {
                 newFact.isColored = true;

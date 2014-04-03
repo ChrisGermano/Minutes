@@ -234,27 +234,9 @@ namespace MinutesToMidnight
         }
 
         //Currently working if a person only has one fact/response
-        public void AddKnowledge(String source)
+        public void AddKnowledge(DialogInfo info)
         {
-            if (source == "item")
-            {
-                knowledge.Insert(knowledge.Count - 1, targetItem.fact);
-            }
-            else if (source == "person")
-            {
-                knowledge.Insert(knowledge.Count - 1,targetPerson.responses[0].dialog);
-            }
-            else
-            {
-                foreach (string s in knowledge)
-                {
-                    if (s == source)
-                    {
-                        return;
-                    }
-                }
-                knowledge.Insert(knowledge.Count - 1, source);
-            }
+                knowledge.Insert(knowledge.Count - 1, info.ResponsePrompt);
         }
 
         //Return: Is targetDoor defined?

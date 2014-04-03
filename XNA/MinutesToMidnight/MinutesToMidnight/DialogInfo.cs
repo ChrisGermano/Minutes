@@ -5,14 +5,16 @@ using System.Text;
 
 namespace MinutesToMidnight
 {
-    public class PersonInfo
+    public class DialogInfo
     {
         public string Info;
         public string Source;
-        public PersonInfo(string info, string source)
+        public string ResponsePrompt;
+        public DialogInfo(string info, string source, string responsePrompt)
         {
             Info = info;
             Source = source;
+            ResponsePrompt = responsePrompt;
         }
     }
 }

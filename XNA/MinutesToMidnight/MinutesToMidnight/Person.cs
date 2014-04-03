@@ -98,7 +98,7 @@ namespace MinutesToMidnight
         {
             foreach (Response r in responses)
             {
-                responseOverlays.Add(r.prompt, new TextOverlay(r.dialog, new Vector2(20, 400 + (18 * responses.IndexOf(r)))));
+                responseOverlays.Add(r.prompt, new TextOverlay(r.dialog, new Vector2(20, 400 + (18 * responses.IndexOf(r))), "person", r.responsePrompt));
             }
             responseOverlays.Add("goodbye", new TextOverlay(generic.text,new Vector2(20, 400)));
             Console.WriteLine(name + ": " + responseOverlays.Count);
@@ -212,10 +212,32 @@ namespace MinutesToMidnight
             if (temp_list.Count > 0)
             {
                 Random rand = new Random();
-                rsp = temp_list[rand.Next(0, temp_list.Count - 1 )];
-                this.responses.Add(rsp);
+                int index = rand.Next(0, temp_list.Count - 1 );
+                rsp = temp_list[index];
+                List<Response> next_responses = new List<Response>(); 
+                if(index + 1 < temp_list.Count){
+                    Response next;
+                    for (int i = index + 1; i < temp_list.Count; i++)
+                    {
+                        next = temp_list[i];
+                        if (next.tietoprevious)
+                        {
+                            next_responses.Add(next);
+                        }
+                        else
+                        {
+                            break;
+                        }
+                    }
+                }
+          
+                this.responses.Add(rsp);                
                 loaded_responses.Remove(rsp);
-                
+                foreach (Response r in next_responses)
+                {
+                    this.responses.Add(r);
+                    loaded_responses.Remove(r);
+                }                
             }
             this.createResponseOverlays();
         }

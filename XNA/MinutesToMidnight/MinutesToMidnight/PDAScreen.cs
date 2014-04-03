@@ -10,7 +10,7 @@ namespace MinutesToMidnight
     {
         public List<TextOverlay> knowledge;
         abstract public void Draw(SpriteBatch spritebatch, GameTime gameTime);
-        public virtual void AddKnowledge(PersonInfo s, Boolean isFact)
+        public virtual void AddKnowledge(DialogInfo s, Boolean isFact)
         {
 
         }

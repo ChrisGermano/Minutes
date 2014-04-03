@@ -6,6 +6,7 @@
 			<locked>false</locked>
 			<name>Newspaper</name>
 			<overlayname>newspaperOverlay</overlayname>
+			<question>What do you know about the Senator's War Profiteering?</question>
 			<texturename>newspaper</texturename>
 			<type>newspaper</type>
 		</Item>
@@ -14,6 +15,7 @@
 			<locked>false</locked>
 			<name>Bulletin Board</name>
 			<overlayname>bulletinOverlay</overlayname>
+			<question>What do you know about the Theater Gas Leak?</question>
 			<texturename>bulletin</texturename>
 			<type>bulletin</type>
 		</Item>
@@ -22,6 +24,7 @@
 			<locked>false</locked>
 			<name>Terminal</name>
 			<overlayname>computerOverlay</overlayname>
+			<question></question>
 			<texturename>computer</texturename>
 			<type>computer</type>
 		</Item>
@@ -30,6 +33,7 @@
 			<locked>false</locked>
 			<name>Newspaper</name>
 			<overlayname>newspaperOverlay</overlayname>
+			<question>What was the violent comment from Borchevia?</question>
 			<texturename>newspaper</texturename>
 			<type>newspaper</type>
 		</Item>
@@ -38,6 +42,7 @@
 			<locked>false</locked>
 			<name>Newspaper</name>
 			<overlayname>newspaperOverlay</overlayname>
+			<question>What does the Carlais Leader have to say?</question>
 			<texturename>newspaper</texturename>
 			<type>newspaper</type>
 		</Item>

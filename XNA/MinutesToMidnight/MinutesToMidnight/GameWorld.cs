@@ -152,8 +152,8 @@ namespace MinutesToMidnight
 
                                 if (convo_manager.HasInfo())
                                 {
-                                    PersonInfo info = convo_manager.GetInfo();
-                                    myPlayer.AddKnowledge(info.Info);
+                                    DialogInfo info = convo_manager.GetInfo();
+                                    myPlayer.AddKnowledge(info);
                                     pda.AddKnowledge(info, false);
                                 }
                                 convo_manager.Update();
@@ -312,8 +312,9 @@ namespace MinutesToMidnight
                                 {
                                     if (!myPlayer.hasInfo(myPlayer.targetItem.fact))
                                     {
-                                        myPlayer.AddKnowledge("item");
-                                        pda.AddKnowledge(new PersonInfo(myPlayer.targetItem.fact, myPlayer.targetItem.name), true);
+                                        DialogInfo info = new DialogInfo(myPlayer.targetItem.fact, myPlayer.targetItem.name, myPlayer.targetItem.question);
+                                        myPlayer.AddKnowledge(info);
+                                        pda.AddKnowledge(info, true);
                                         myPlayer.timeLeft--;
                                     }
 
@@ -347,20 +348,33 @@ namespace MinutesToMidnight
                             }
                             else
                             {
+                                int target;
                                 if (mouse_type == MouseType.DOOR)
                                 {
-                                    int doorTarget = bunker.activeDoorClicked(new Vector2(mouse_x, mouse_y));
-                                    myPlayer.setTargetDoor(bunker.getActiveRoomDoors(doorTarget));
+                                    target = bunker.activeDoorClicked(new Vector2(mouse_x, mouse_y));
+                                    if (target == -1)
+                                    {
+                                        return;
+                                    }
+                                    myPlayer.setTargetDoor(bunker.getActiveRoomDoors(target));
                                 }
                                 else if (mouse_type == MouseType.ITEM)
                                 {
-                                    int newTarget = bunker.getActiveRoomItemClicked(new Vector2(mouse_x, mouse_y));
-                                    myPlayer.setTargetItem(bunker.GetActiveItems()[newTarget]);
+                                    target = bunker.getActiveRoomItemClicked(new Vector2(mouse_x, mouse_y));
+                                    if (target == -1)
+                                    {
+                                        return;
+                                    }
+                                    myPlayer.setTargetItem(bunker.GetActiveItems()[target]);
                                 }
                                 else if (mouse_type == MouseType.CHARACTER)
                                 {
-                                    int newTar = bunker.getActiveRoomPersonClicked(new Vector2(mouse_x, mouse_y));
-                                    myPlayer.setTargetPerson(bunker.getActiveRoomPeople()[newTar]);
+                                    target = bunker.getActiveRoomPersonClicked(new Vector2(mouse_x, mouse_y));
+                                    if (target == -1)
+                                    {
+                                        return;
+                                    }
+                                    myPlayer.setTargetPerson(bunker.getActiveRoomPeople()[target]);
                                 }
                                 else if (mouse_type == MouseType.BUTTON_GUARD)
                                 {

@@ -31,6 +31,21 @@ namespace MinutesToMidnight
         [DataMember(Name = "marked", IsRequired = true)]
         private MARKEDAS marked = MARKEDAS.huh;
 
+
+        [DataMember(Name = "responsePrompt", IsRequired = true)]
+        public string responsePrompt = "Ask";
+
+
+        [DataMember(Name = "replace", IsRequired = true)]
+        private bool replace = false;
+
+        /// <summary>
+        /// ensures that a specific response can be applied to the same
+        /// person as the previous response
+        /// </summary>
+        [DataMember(Name = "tietoprevious", IsRequired = true)]
+        public bool tietoprevious = false;
+
         public Response()
         {
 

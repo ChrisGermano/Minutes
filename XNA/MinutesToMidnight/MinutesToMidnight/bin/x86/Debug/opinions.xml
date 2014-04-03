@@ -8,7 +8,10 @@
       <locked>false</locked>
       <marked>huh</marked>
       <prompt>What do you know</prompt>
+	  <replace>false</replace>
+	  <responsePrompt>Cat said Terrorists Did it</responsePrompt>
       <role>civilian</role>
+	  <tietoprevious>false</tietoprevious>
       <verity>false_opinion</verity>
     </Response>
     <Response>
@@ -18,7 +21,10 @@
       <locked>false</locked>
       <marked>huh</marked>
       <prompt>What do you know</prompt>
+	  <replace>false</replace>
+	  <responsePrompt>Someone's pet knows what happened?</responsePrompt>
       <role>politician</role>
+	  <tietoprevious>false</tietoprevious>
       <verity>true_opinion</verity>
     </Response>
 	<Response>
@@ -28,7 +34,10 @@
       <locked>false</locked>
       <marked>huh</marked>
       <prompt>What do you know</prompt>
+	  <replace>false</replace>
+	  <responsePrompt>Could it be Carlais?</responsePrompt>
       <role>military</role>
+	  <tietoprevious>false</tietoprevious>
       <verity>false_opinion</verity>
     </Response>
 	<Response>
@@ -38,7 +47,10 @@
       <locked>false</locked>
       <marked>huh</marked>
       <prompt>What do you know</prompt>
+	  <replace>false</replace>
+	  <responsePrompt>Borchevia framing Carlais?</responsePrompt>
       <role>civilian</role>
+	  <tietoprevious>false</tietoprevious>
       <verity>true_opinion</verity>
     </Response>
 	<Response>
@@ -48,58 +60,24 @@
       <locked>false</locked>
       <marked>huh</marked>
       <prompt>What do you know</prompt>
+	  <replace>false</replace>
+	  <responsePrompt>Are Borchevians sneaky?</responsePrompt>
       <role>civilian</role>
+	  <tietoprevious>false</tietoprevious>
       <verity>true_opinion</verity>
     </Response>
 	<Response>
-      <dialog>Carlais is finally using the weapons they've held for so long.</dialog>
-      <discovered>false</discovered>
-      <importance>medium</importance>
-      <locked>false</locked>
-      <marked>huh</marked>
-      <prompt>What do you know</prompt>
-      <role>civilian</role>
-      <verity>false_opinion</verity>
-    </Response>
-	<Response>
-      <dialog>Despite our long standing dispute with Carlais... I trust them.</dialog>
-      <discovered>false</discovered>
-      <importance>medium</importance>
-      <locked>false</locked>
-      <marked>huh</marked>
-      <prompt>What do you know</prompt>
-      <role>politician</role>
-      <verity>true_opinion</verity>
-    </Response>
-	<Response>
-      <dialog>As fellow politicians we must investigate Borchevian candidates.</dialog>
+      <dialog>You're Damn right!</dialog>
       <discovered>false</discovered>
       <importance>low</importance>
       <locked>false</locked>
       <marked>huh</marked>
-      <prompt>What do you know</prompt>
-      <role>politician</role>
+      <prompt>Are Borchevians sneaky?</prompt>
+	  <replace>false</replace>
+	  <responsePrompt> </responsePrompt>
+      <role>civilian</role>
+	  <tietoprevious>false</tietoprevious>
       <verity>true_opinion</verity>
-    </Response>
-	<Response>
-      <dialog>I like to think I know politics, and Carlais has little to gain from this.</dialog>
-      <discovered>false</discovered>
-      <importance>high</importance>
-      <locked>false</locked>
-      <marked>huh</marked>
-      <prompt>What do you know</prompt>
-      <role>politician</role>
-      <verity>true_opinion</verity>
-    </Response>
-	<Response>
-      <dialog>Carlais wants to start a war? We should bring the war to them.</dialog>
-      <discovered>false</discovered>
-      <importance>low</importance>
-      <locked>false</locked>
-      <marked>huh</marked>
-      <prompt>What do you know</prompt>
-      <role>military</role>
-      <verity>false_opinion</verity>
     </Response>
   </responses>
 </Truth>

@@ -121,7 +121,7 @@ namespace MinutesToMidnight
 
         }
 
-        internal void AddKnowledge(PersonInfo p, Boolean isFact)
+        internal void AddKnowledge(DialogInfo p, Boolean isFact)
         {
             screens["timeline"].AddKnowledge(p, isFact);
         }
