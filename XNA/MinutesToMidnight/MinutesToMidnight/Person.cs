@@ -214,30 +214,17 @@ namespace MinutesToMidnight
                 Random rand = new Random();
                 int index = rand.Next(0, temp_list.Count - 1 );
                 rsp = temp_list[index];
-                List<Response> next_responses = new List<Response>(); 
-                if(index + 1 < temp_list.Count){
-                    Response next;
-                    for (int i = index + 1; i < temp_list.Count; i++)
+
+                foreach (Response r in this.responses)
+                {
+                    if (rsp.prompt == r.prompt)
                     {
-                        next = temp_list[i];
-                        if (next.tietoprevious)
-                        {
-                            next_responses.Add(next);
-                        }
-                        else
-                        {
-                            break;
-                        }
+                        return;
                     }
                 }
           
                 this.responses.Add(rsp);                
                 loaded_responses.Remove(rsp);
-                foreach (Response r in next_responses)
-                {
-                    this.responses.Add(r);
-                    loaded_responses.Remove(r);
-                }                
             }
             this.createResponseOverlays();
         }
@@ -247,8 +234,18 @@ namespace MinutesToMidnight
             if (responseOverlays.ContainsKey(prompt))
             {
                 return responseOverlays[prompt];
+            } else {
+                foreach (string key in responseOverlays.Keys)
+                {
+                    if (responseOverlays[key].response == prompt)
+                    {
+                        return new TextOverlay("I'm sorry, I dont know anything else", responseOverlays[key].position);
+                    }
+                }
+
             }
-            else return generic_answer;
+            
+            return generic_answer;
         }
 
         internal void StopSpeaking()

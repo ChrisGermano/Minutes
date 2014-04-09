@@ -2,20 +2,20 @@
 	<name>items</name>
 	<items>
 		<Item>
-			<fact>Public Outcry Over Senator's War Profiteering</fact>
+			<fact>Infection spreads across Washington DC like wildfire</fact>
 			<locked>false</locked>
 			<name>Newspaper</name>
 			<overlayname>newspaperOverlay</overlayname>
-			<question>What do you know about the Senator's War Profiteering?</question>
+			<question>What do you know about the Spread of infection?</question>
 			<texturename>newspaper</texturename>
 			<type>newspaper</type>
 		</Item>
 		<Item>
-			<fact>Historic Theater Closed Due to Gas Leak</fact>
+			<fact>Disease transmitted through blood and saliva</fact>
 			<locked>false</locked>
 			<name>Bulletin Board</name>
 			<overlayname>bulletinOverlay</overlayname>
-			<question>What do you know about the Theater Gas Leak?</question>
+			<question>Have you seen anyone with wounds?</question>
 			<texturename>bulletin</texturename>
 			<type>bulletin</type>
 		</Item>
@@ -29,20 +29,20 @@
 			<type>computer</type>
 		</Item>
 		<Item>
-			<fact>Borchevian Politician Under Fire for Violent Comment</fact>
+			<fact>Military general demands immediate action</fact>
 			<locked>false</locked>
 			<name>Newspaper</name>
 			<overlayname>newspaperOverlay</overlayname>
-			<question>What was the violent comment from Borchevia?</question>
+			<question>What should we do about the situation?</question>
 			<texturename>newspaper</texturename>
 			<type>newspaper</type>
 		</Item>
 		<Item>
-			<fact>Carlais Leader Uncomfortable with Recent Conflict</fact>
+			<fact>Infection takes up to 3 Days to show symptoms</fact>
 			<locked>false</locked>
 			<name>Newspaper</name>
 			<overlayname>newspaperOverlay</overlayname>
-			<question>What does the Carlais Leader have to say?</question>
+			<question>Have you heard about the symptoms?</question>
 			<texturename>newspaper</texturename>
 			<type>newspaper</type>
 		</Item>

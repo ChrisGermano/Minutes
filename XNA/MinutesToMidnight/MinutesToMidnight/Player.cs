@@ -236,7 +236,10 @@ namespace MinutesToMidnight
         //Currently working if a person only has one fact/response
         public void AddKnowledge(DialogInfo info)
         {
+            if (info.ResponsePrompt != "")
+            {
                 knowledge.Insert(knowledge.Count - 1, info.ResponsePrompt);
+            }
         }
 
         //Return: Is targetDoor defined?

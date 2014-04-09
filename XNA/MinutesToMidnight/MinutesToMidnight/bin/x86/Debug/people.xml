@@ -26,7 +26,7 @@
 			<greetingString>Greetings, Mr. President. Do you have questions for me?</greetingString>
 			<guard>0</guard>
 			<locked>false</locked>
-			<name>Borchevian Representative Dorstaak</name>
+			<name>Defense Representative Dorstaak</name>
 			<overlayname>null</overlayname>
 			<role>politician</role>
 			<texturename>Representative_Dorstaak</texturename>
@@ -53,17 +53,17 @@
 		</Person>
 		<Person>
 			<genericString>*Salute*</genericString>
-			<greetingString>Commander! Sir!</greetingString>
+			<greetingString>Commander! Sir! Awaiting Orders!</greetingString>
 			<guard>0</guard>
 			<locked>false</locked>
-			<name>Colonel Berket</name>
+			<name>Colonel Jackson</name>
 			<overlayname>null</overlayname>
 			<role>military</role>
 			<texturename>Colonel_Berket</texturename>
 		</Person>
 		<Person>
-			<genericString>If you find out something important, make sure to let me know!</genericString>
-			<greetingString>Mr. President! I was hoping you'd show up!</greetingString>
+			<genericString>P...Please help us...*sniff**sniff*</genericString>
+			<greetingString>*sniff*-Mister President... I... I'm so scared...</greetingString>
 			<guard>0</guard>
 			<locked>false</locked>
 			<name>Isaac Brewster</name>
@@ -72,8 +72,8 @@
 			<texturename>Isaac_Brewster</texturename>
 		</Person>
 		<Person>
-			<genericString>I'm sure you're busy, don't mind me.</genericString>
-			<greetingString>Oh, Mr. President? Um, do you need me?</greetingString>
+			<genericString>*cough* goodbye, sir! *cough* ...damn cold... *cough*</genericString>
+			<greetingString>*cough*Oh my, Mister -*cough*- President, hello!</greetingString>
 			<guard>0</guard>
 			<locked>false</locked>
 			<name>Bryanne Hogan</name>

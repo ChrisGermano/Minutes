@@ -37,14 +37,10 @@ namespace MinutesToMidnight
 
 
         [DataMember(Name = "replace", IsRequired = true)]
-        private bool replace = false;
+        public bool replace = false;
 
-        /// <summary>
-        /// ensures that a specific response can be applied to the same
-        /// person as the previous response
-        /// </summary>
-        [DataMember(Name = "tietoprevious", IsRequired = true)]
-        public bool tietoprevious = false;
+        [DataMember(Name = "specificPerson", IsRequired = true)]
+        public string specificPerson = "";
 
         public Response()
         {
