@@ -22,26 +22,6 @@
 			<texturename>Secretary_of_Defense_Thomason</texturename>
 		</Person>
 		<Person>
-			<genericString>You have my condolences, sir.</genericString>
-			<greetingString>Greetings, Mr. President. Do you have questions for me?</greetingString>
-			<guard>0</guard>
-			<locked>false</locked>
-			<name>Defense Representative Dorstaak</name>
-			<overlayname>null</overlayname>
-			<role>politician</role>
-			<texturename>Representative_Dorstaak</texturename>
-		</Person>
-		<Person>
-			<genericString>Let's not waste time here, Mr. President.</genericString>
-			<greetingString>Yes? What is it?</greetingString>
-			<guard>0</guard>
-			<locked>false</locked>
-			<name>Mayor Milgrom</name>
-			<overlayname>null</overlayname>
-			<role>politician</role>
-			<texturename>Mayor_Milgrom</texturename>
-		</Person>
-		<Person>
 			<genericString>Yes sir.</genericString>
 			<greetingString>Mr President?</greetingString>
 			<guard>1</guard>
@@ -80,16 +60,6 @@
 			<overlayname>null</overlayname>
 			<role>civilian</role>
 			<texturename>Bryanne_Hogan</texturename>
-		</Person>
-		<Person>
-			<genericString>Don't forget us who got family out there, alright?</genericString>
-			<greetingString>Oh, hey Mr. President. Workin' hard?</greetingString>
-			<guard>0</guard>
-			<locked>false</locked>
-			<name>Max Milgrom</name>
-			<overlayname>null</overlayname>
-			<role>civilian</role>
-			<texturename>Max_Milgrom</texturename>
 		</Person>
 		<Person>
 			<genericString>Bye.</genericString>

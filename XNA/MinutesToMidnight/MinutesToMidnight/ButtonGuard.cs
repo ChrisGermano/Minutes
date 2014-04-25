@@ -31,7 +31,7 @@ namespace MinutesToMidnight
             width = 50;
             height = 200;
 
-            overlays[0] = new TextOverlay("Sir, have you decided what to do about Borchevia?", new Vector2(10, Game1.screen_size.Y - 110));
+            overlays[0] = new TextOverlay("Sir, have you decided what we should do about the infection?", new Vector2(10, Game1.screen_size.Y - 110));
             overlays[1] = new TextOverlay(" - I'm ready.", new Vector2(40, Game1.screen_size.Y - 90));
             overlays[2] = new TextOverlay(" - I'm not ready.", new Vector2(40, Game1.screen_size.Y - 70));
         }

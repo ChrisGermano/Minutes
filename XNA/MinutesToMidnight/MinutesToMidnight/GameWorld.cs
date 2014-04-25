@@ -220,9 +220,14 @@ namespace MinutesToMidnight
             ObjLoader<Person> people_loader = new ObjLoader<Person>();
             ObjLoader<Response> response_loader = new ObjLoader<Response>();
             ObjLoader<Item> item_loader = new ObjLoader<Item>();
-            List<Person> loaded_people = people_loader.Load("..\\Debug\\people.xml");
-            List<Response> loaded_responses = response_loader.Load("..\\Debug\\opinions.xml");
-            List<Item> loaded_items = item_loader.Load("..\\Debug\\items.xml");
+            string pre = "Information\\";
+          //  if (Directory.Exists("..\\Debug"))
+          //  {
+          //      pre = "..\\Debug\\";
+          //  }
+            List<Person> loaded_people = people_loader.Load(pre + "people.xml");
+            List<Response> loaded_responses = response_loader.Load( pre + "opinions.xml");
+            List<Item> loaded_items = item_loader.Load(pre + "items.xml");
 
             foreach (Person p in loaded_people)
             {

@@ -134,7 +134,6 @@ namespace MinutesToMidnight
             }
             if (buttonFound != "")
             {
-
                 foreach (string key in buttons.Keys)
                 {
                     if (key != buttonFound)
