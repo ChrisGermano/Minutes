@@ -40,7 +40,7 @@ namespace MinutesToMidnight
         public Player()
         {
             position = new Vector2(500, 220);
-            walkspeed = 2.5f;
+            walkspeed = 5f;
             destinationX = -1;
             targetItem = null;
             targetDoor = null;
@@ -327,10 +327,10 @@ namespace MinutesToMidnight
             frames.Add(new AnimationFrame(new Rectangle(154, 0, 51, 210), 60));
             animator.Set(AnimationState.IDLE, new Animation(texture, frames));
             frames = new List<AnimationFrame>();
-            frames.Add(new AnimationFrame(new Rectangle(285, 225, 60, 210), 8));
-            frames.Add(new AnimationFrame(new Rectangle(345, 225, 60, 210), 8));
-            frames.Add(new AnimationFrame(new Rectangle(405, 225, 55, 210), 8));
-            frames.Add(new AnimationFrame(new Rectangle(230, 225, 50, 210), 6));
+            frames.Add(new AnimationFrame(new Rectangle(285, 225, 60, 210), 6));
+            frames.Add(new AnimationFrame(new Rectangle(345, 225, 60, 210), 6));
+            frames.Add(new AnimationFrame(new Rectangle(405, 225, 55, 210), 6));
+            frames.Add(new AnimationFrame(new Rectangle(230, 225, 50, 210), 4));
             animator.Set(AnimationState.WALK, new Animation(texture, frames, false, false));
             animator.SetState(AnimationState.IDLE);
         }
