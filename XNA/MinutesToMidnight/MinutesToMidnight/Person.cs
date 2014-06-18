@@ -94,7 +94,7 @@ namespace MinutesToMidnight
             }
         }
 
-        private void createResponseOverlays()
+        public void createResponseOverlays()
         {
             foreach (Response r in responses)
             {
@@ -226,7 +226,6 @@ namespace MinutesToMidnight
                 this.responses.Add(rsp);                
                 loaded_responses.Remove(rsp);
             }
-            this.createResponseOverlays();
         }
         
         internal TextOverlay GetResponse(string prompt)
@@ -260,6 +259,17 @@ namespace MinutesToMidnight
             animator.SetState(AnimationState.SPEAK);
             speaking = true;
             SoundPlayer.Instance.StartTalking();
+        }
+
+        internal void addSpecifics(ref List<Response> Specifics)
+        {
+            foreach (Response r in Specifics)
+            {
+                if (r.specificPerson == name)
+                {
+                    responses.Add(r);
+                }
+            }
         }
     }
 }

@@ -229,10 +229,29 @@ namespace MinutesToMidnight
             List<Response> loaded_responses = response_loader.Load( pre + "opinions.xml");
             List<Item> loaded_items = item_loader.Load(pre + "items.xml");
 
+            List<Response> Specifics = new List<Response>();
+            List<Response> templist = new List<Response>();
+            foreach (Response r in loaded_responses)
+            {
+                if (r.specificPerson != "")
+                {
+                    Specifics.Add(r);
+                    templist.Add(r);
+                }
+            }
+
+            foreach (Response r in templist)
+            {
+                loaded_responses.Remove(r);
+            }
+
+            templist = null;
             foreach (Person p in loaded_people)
             {
                 p.Initialize();
                 p.addResponse(ref loaded_responses);
+                p.addSpecifics(ref Specifics);
+                p.createResponseOverlays();
             }
 
             People = new List<Person>(loaded_people);
