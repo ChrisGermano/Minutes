@@ -22,8 +22,9 @@ namespace MinutesToMidnight
         public string source;
         private int pda_width;
         private SpriteFont sprite_font;
+        public string response;
         bool in_pda;
-        public TextOverlay(String t, Vector2 pos, string _source = "", bool pda = false, int pdawidth = 800)
+        public TextOverlay(String t, Vector2 pos, string _source = "", string r = "", bool pda = false, int pdawidth = 800)
         {
             text = t;
             position = pos;
@@ -33,6 +34,7 @@ namespace MinutesToMidnight
             source = _source;
             in_pda = pda;
             pda_width = pdawidth;
+            response = r;
         }
 
         //For PDA text altering

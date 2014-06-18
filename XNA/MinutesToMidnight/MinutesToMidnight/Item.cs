@@ -28,6 +28,10 @@ namespace MinutesToMidnight
         [DataMember(Name = "fact", IsRequired = true)]
         public String fact;
 
+        [DataMember(Name = "question", IsRequired = true)]
+        public String question;
+
+
         public Vector2 position;
         public Vector2 overlayPosition;
 		public int width;

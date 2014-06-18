@@ -98,7 +98,7 @@ namespace MinutesToMidnight
         {
             foreach (Response r in responses)
             {
-                responseOverlays.Add(r.prompt, new TextOverlay(r.dialog, new Vector2(20, 400 + (18 * responses.IndexOf(r)))));
+                responseOverlays.Add(r.prompt, new TextOverlay(r.dialog, new Vector2(20, 400 + (18 * responses.IndexOf(r))), "person", r.responsePrompt));
             }
             responseOverlays.Add("goodbye", new TextOverlay(generic.text,new Vector2(20, 400)));
             Console.WriteLine(name + ": " + responseOverlays.Count);
@@ -212,10 +212,19 @@ namespace MinutesToMidnight
             if (temp_list.Count > 0)
             {
                 Random rand = new Random();
-                rsp = temp_list[rand.Next(0, temp_list.Count - 1 )];
-                this.responses.Add(rsp);
+                int index = rand.Next(0, temp_list.Count - 1 );
+                rsp = temp_list[index];
+
+                foreach (Response r in this.responses)
+                {
+                    if (rsp.prompt == r.prompt)
+                    {
+                        return;
+                    }
+                }
+          
+                this.responses.Add(rsp);                
                 loaded_responses.Remove(rsp);
-                
             }
             this.createResponseOverlays();
         }
@@ -225,8 +234,18 @@ namespace MinutesToMidnight
             if (responseOverlays.ContainsKey(prompt))
             {
                 return responseOverlays[prompt];
+            } else {
+                foreach (string key in responseOverlays.Keys)
+                {
+                    if (responseOverlays[key].response == prompt)
+                    {
+                        return new TextOverlay("I'm sorry, I dont know anything else", responseOverlays[key].position);
+                    }
+                }
+
             }
-            else return generic_answer;
+            
+            return generic_answer;
         }
 
         internal void StopSpeaking()

@@ -16,6 +16,7 @@ namespace MinutesToMidnight
         public bool Active;
         private Texture2D Background;
         private Dictionary<string, Button> buttons;
+        private Button close_button;
         private string active_button;
         private Dictionary<string, Action> button_actions;
         private int height;
@@ -77,9 +78,14 @@ namespace MinutesToMidnight
             if (this.Active)
             {
                 spritebatch.Draw(Background, pda_position, null, Color.White, 0f, new Vector2(0,0), 1.1f, SpriteEffects.None, DrawConstants.PDA_BACKGROUND_LAYER);
+               
                 screens[active_screen].Draw(spritebatch, gameTime);
-                buttons["close"].Draw(spritebatch);
-                buttons[active_button].Draw(spritebatch);
+                close_button.Draw(spritebatch);
+                foreach (string key in buttons.Keys)
+                {
+                    buttons[key].Draw(spritebatch);
+                    
+                }
                 if (mouse_over == "close")
                 {
                     Vector2 size = Textures.item_font.MeasureString(mouse_over);
@@ -107,21 +113,43 @@ namespace MinutesToMidnight
                     return;
                 }
             }
+            if (close_button.mouseOver(mouse_x, mouse_y))
+            {
+                mouse_over = close_button.name;
+            }
         }
 
         public void CheckMousePositionClick(int mouse_x, int mouse_y)
         {
+            string buttonFound = "";
             foreach (string key in buttons.Keys)
             {
-                if (buttons[key].mouseOver(mouse_x, mouse_y))
+               if (buttons[key].mouseOver(mouse_x, mouse_y))
                 {
+                    buttonFound = key;
+                    buttons[key].active = true;
                     buttons[key].ButtonAction();
+                    break;
                 }
+            }
+            if (buttonFound != "")
+            {
+                foreach (string key in buttons.Keys)
+                {
+                    if (key != buttonFound)
+                    {
+                        buttons[key].active = false;
+                    }
+                }
+            }
+            if (close_button.mouseOver(mouse_x, mouse_y))
+            {
+                close_button.ButtonAction();
             }
 
         }
 
-        internal void AddKnowledge(PersonInfo p, Boolean isFact)
+        internal void AddKnowledge(DialogInfo p, Boolean isFact)
         {
             screens["timeline"].AddKnowledge(p, isFact);
         }
@@ -134,7 +162,7 @@ namespace MinutesToMidnight
             width = (int)(this.Background.Width * scalar);
 
             pda_position = new Vector2(Game1.screen_size.X / 2 - width / 2, Game1.screen_size.Y / 2 - height / 2);
-            button_location = new Vector2(pda_position.X + width / 10, pda_position.Y + (height * 0.8f));
+            button_location = new Vector2(pda_position.X + width / 10 - 22, pda_position.Y + (height * 0.8f));
             screen_position = new Vector2(pda_position.X + width / 10, pda_position.Y + (height * 0.125f));
 
             screens = new Dictionary<string, PDAScreen>();
@@ -148,13 +176,19 @@ namespace MinutesToMidnight
             SetScreenMap();
             buttons = new Dictionary<string, Button>();
             button_actions = new Dictionary<string, Action>();
-            buttons.Add("close", new Button(pda_position, 20, 20, Close, "close"));
-            buttons.Add("map", new Button(button_location, 133, 50, SetScreenMap, "map", scalar, 0));
-            buttons.Add("timeline", new Button(button_location, 133, 50, SetScreenTimeline, "timeline", scalar, 2));
-            buttons.Add("bios", new Button(button_location, 133, 50, SetScreenBios, "bios", scalar, 1));
+            int buttonwidth = (int)((screenwidth*scalar) / 3);
+            close_button = new Button(pda_position, 20, 20, Close, "close");
+            close_button.LoadContent(contentManager); 
+            buttons.Add("map", new Button(button_location, buttonwidth, 35, SetScreenMap, "map", scalar, 0));
+            buttons.Add("timeline", new Button(button_location, buttonwidth, 35, SetScreenTimeline, "timeline", scalar, 2));
+            buttons.Add("bios", new Button(button_location, buttonwidth, 35, SetScreenBios, "bios", scalar, 1));
             foreach (string key in buttons.Keys)
             {
                 buttons[key].LoadContent(contentManager);
+                if (key != active_button && key != "close")
+                {
+                    buttons[key].active = false;
+                }
             }
             foreach (string key in screens.Keys)
             {

@@ -1,0 +1,148 @@
+<Truth xmlns="http://schemas.datacontract.org/2004/07/MinutesToMidnight" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <name>sample</name>
+  <responses>
+    <Response>
+      <dialog>I heard that there's no cure... but how could they know?</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+	  <replace>false</replace>
+	  <responsePrompt>Could there be a cure?</responsePrompt>
+      <role>civilian</role>
+	  <specificPerson></specificPerson>
+      <verity>true_opinion</verity>
+    </Response>    
+    <Response>
+      <dialog>Do you think this quarantine was enough? What if we're all infected?</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+	  <replace>false</replace>
+	  <responsePrompt></responsePrompt>
+      <role>civilian</role>
+	  <specificPerson></specificPerson>
+      <verity>true_opinion</verity>
+    </Response>        
+	<Response>
+      <dialog>I heard there's someone here, coughing, making everyone nervous...</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+	  <replace>false</replace>
+	  <responsePrompt></responsePrompt>
+      <role>civilian</role>
+	  <specificPerson></specificPerson>
+      <verity>true_opinion</verity>
+    </Response>    
+    <Response>
+      <dialog>I say we nuke the city. We're safe here, right??</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What should we do about the situation?</prompt>
+	  <replace>false</replace>
+	  <responsePrompt></responsePrompt>
+      <role>military</role>
+	  <specificPerson></specificPerson>
+      <verity>false_opinion</verity>
+    </Response>        
+	<Response>
+      <dialog>All there is to do... is pray.</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What should we do about the situation?</prompt>
+	  <replace>false</replace>
+	  <responsePrompt></responsePrompt>
+      <role>politician</role>
+	  <specificPerson></specificPerson>
+      <verity>false_opinion</verity>
+    </Response>    
+	<Response>
+      <dialog>I don't know... there just has to be... right? This cant be the end...</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>Could there be a cure?</prompt>
+	  <replace>false</replace>
+	  <responsePrompt></responsePrompt>
+      <role>civilian</role>
+	  <specificPerson></specificPerson>
+      <verity>true_opinion</verity>	
+    </Response>
+	<Response>
+      <dialog>Not that I've seen... I dont know how someone could come back from... That...</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>Could there be a cure?</prompt>
+	  <replace>false</replace>
+	  <responsePrompt></responsePrompt>
+      <role>civilian</role>
+	  <specificPerson></specificPerson>
+      <verity>true_opinion</verity>
+    </Response>
+    <Response>
+      <dialog>The infection spreads quickly... Seems like anyone could be infected</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>Have you heard about the symptoms?</prompt>
+	  <replace>false</replace>
+	  <responsePrompt></responsePrompt>
+      <role>politician</role>
+	  <specificPerson></specificPerson>
+      <verity>true_opinion</verity>
+    </Response>
+	<Response>
+      <dialog>I hear it started as a scientific experiment gone wrong!</dialog>
+      <discovered>false</discovered>
+      <importance>medium</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+	  <replace>false</replace>
+	  <responsePrompt>Scientific Experiment?</responsePrompt>
+      <role>military</role>
+	  <specificPerson></specificPerson>
+      <verity>false_opinion</verity>
+    </Response>	
+	<Response>
+      <dialog>I heard that it causes your limbs to just.. fall off! That's scary!</dialog>
+      <discovered>false</discovered>
+      <importance>medium</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>What do you know</prompt>
+	  <replace>false</replace>
+	  <responsePrompt>Scientific Experiment?</responsePrompt>
+      <role>military</role>
+	  <specificPerson></specificPerson>
+      <verity>false_opinion</verity>
+    </Response>
+	<Response>
+      <dialog>S...Symptoms?? No... Nothing... I mean... *cough* I.. I feel fine!</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>Have you heard about the symptoms?</prompt>
+	  <replace>false</replace>
+	  <responsePrompt></responsePrompt>
+      <role>civilian</role>
+	  <specificPerson>"Bryanne Hogan"</specificPerson>
+      <verity>true_opinion</verity>
+    </Response>
+  </responses>
+</Truth>

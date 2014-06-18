@@ -16,7 +16,8 @@ namespace MinutesToMidnight
         int width;
         int height;
         int button_number;
-        string name;
+        public string name;
+        public bool active;
         public Action ButtonAction;
         private float scalar;
         Texture2D texture;
@@ -25,16 +26,17 @@ namespace MinutesToMidnight
         public bool animating;
         AnimationManager animator;
 
-        public Button(Vector2 _position, int _width, int _height, Action action, string nm, float scale = 1f, int buttonnumber = 0)
+        public Button(Vector2 _position, int _width, int _height, Action action, string nm, float _scalar = 1.0f, int buttonnumber = 0)
         {
             position = _position;
             width = _width;
             height = _height;
             ButtonAction = action;
             name = nm;
-            scalar = scale;
             disabled = false;
             button_number = buttonnumber;
+            scalar = _scalar;
+            active = true;
         }
 
         public void Draw(SpriteBatch spritebatch)
@@ -42,7 +44,7 @@ namespace MinutesToMidnight
             if (animating == null || !animating)
             {
                 float alpha;
-                if (disabled)
+                if (disabled || !active)
                 {
                     alpha = 0.5f;
                 }

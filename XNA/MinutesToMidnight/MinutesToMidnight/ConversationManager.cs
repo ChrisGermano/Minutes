@@ -20,7 +20,7 @@ namespace MinutesToMidnight
         PlayerQuestions questions;
         TextOverlay questionHeader;
 
-        PersonInfo InfoToAdd;
+        DialogInfo InfoToAdd;
 
         public ConversationManager(Player plyr, Person prsn)
         {
@@ -87,9 +87,9 @@ namespace MinutesToMidnight
             return InfoToAdd != null;
         }
 
-        public PersonInfo GetInfo()
+        public DialogInfo GetInfo()
         {
-            PersonInfo info = InfoToAdd;
+            DialogInfo info = InfoToAdd;
             InfoToAdd = null;
             return info;
         }
@@ -108,8 +108,11 @@ namespace MinutesToMidnight
                 {
                     if (current_message != person.greeting && current_message != person.generic && current_message != person.generic_answer)
                     {
-                        InfoToAdd = new PersonInfo(current_message.text, person.name);
-                        questions.AddQuestion(current_message.text);
+                        if (current_message.response != null && current_message.response != "")
+                        {
+                            InfoToAdd = new DialogInfo(current_message.text, person.name, current_message.response);
+                            questions.AddQuestion(current_message.response);
+                        }
                     }
                 }
                 waitingforquestion = true;

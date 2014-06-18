@@ -119,7 +119,7 @@
     <Compile Include="ConversationManager.cs" />
     <Compile Include="EndGameManager.cs" />
     <Compile Include="ObjLoader.cs" />
-    <Compile Include="PersonInfo.cs" />
+    <Compile Include="DialogInfo.cs" />
     <Compile Include="SoundPlayer.cs" />
     <Compile Include="TextOverlay.cs" />
     <Compile Include="BaseEventData.cs" />
