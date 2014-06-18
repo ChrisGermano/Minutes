@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\mtmDefaultPerson.xnb</Output>
-      <Time>2014-04-01T17:26:46.7571518-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\mtmDefaultPerson.xnb</Output>
+      <Time>2014-06-18T10:42:03.4039306-04:00</Time>
     </Item>
     <Item>
       <Source>Characters\mtmDefaultPlayer.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\mtmDefaultPlayer.xnb</Output>
-      <Time>2014-04-01T17:26:46.7581519-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\mtmDefaultPlayer.xnb</Output>
+      <Time>2014-06-18T10:42:03.4049306-04:00</Time>
     </Item>
     <Item>
       <Source>Items\interactiveItems.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Items\interactiveItems.xnb</Output>
-      <Time>2014-04-01T17:26:46.7731528-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Items\interactiveItems.xnb</Output>
+      <Time>2014-06-18T10:42:03.4139312-04:00</Time>
     </Item>
     <Item>
       <Source>Pointers\mtmDefaultPointer.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Pointers\mtmDefaultPointer.xnb</Output>
-      <Time>2014-04-01T17:26:47.9642209-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Pointers\mtmDefaultPointer.xnb</Output>
+      <Time>2014-06-18T10:42:03.4769348-04:00</Time>
     </Item>
     <Item>
       <Source>Pointers\mtmItemPointer.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Pointers\mtmItemPointer.xnb</Output>
-      <Time>2014-04-01T17:26:47.9652209-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Pointers\mtmItemPointer.xnb</Output>
+      <Time>2014-06-18T10:42:03.4779348-04:00</Time>
     </Item>
     <Item>
       <Source>Pointers\mtmPDA.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Pointers\mtmPDA.xnb</Output>
-      <Time>2014-04-01T17:26:48.1492315-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Pointers\mtmPDA.xnb</Output>
+      <Time>2014-06-18T10:42:03.481935-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\mtmPDAMapBG.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\mtmPDAMapBG.xnb</Output>
-      <Time>2014-04-01T17:26:47.9592206-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\mtmPDAMapBG.xnb</Output>
+      <Time>2014-06-18T10:42:03.4679342-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\mtmPDAOptionsBG.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\mtmPDAOptionsBG.xnb</Output>
-      <Time>2014-04-01T17:26:47.9602206-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\mtmPDAOptionsBG.xnb</Output>
+      <Time>2014-06-18T10:42:03.4699344-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\mtmPDATimelineBG.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\mtmPDATimelineBG.xnb</Output>
-      <Time>2014-04-01T17:26:47.9612207-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\mtmPDATimelineBG.xnb</Output>
+      <Time>2014-06-18T10:42:03.4709344-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\mtmPDAMapButton.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\mtmPDAMapButton.xnb</Output>
-      <Time>2014-04-01T17:26:47.9592206-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\mtmPDAMapButton.xnb</Output>
+      <Time>2014-06-18T10:42:03.4689343-04:00</Time>
     </Item>
     <Item>
       <Source>Characters\characters.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\characters.xnb</Output>
-      <Time>2014-04-01T17:26:46.7571518-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\characters.xnb</Output>
+      <Time>2014-06-18T10:42:03.4029305-04:00</Time>
     </Item>
     <Item>
       <Source>Items\doodads.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Items\doodads.xnb</Output>
-      <Time>2014-04-01T17:26:46.7731528-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Items\doodads.xnb</Output>
+      <Time>2014-06-18T10:42:03.4129311-04:00</Time>
     </Item>
     <Item>
       <Source>frame.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\frame.xnb</Output>
-      <Time>2014-04-01T17:26:48.4332477-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\frame.xnb</Output>
+      <Time>2014-06-18T10:42:03.6229431-04:00</Time>
     </Item>
     <Item>
       <Source>Room\mtmBunkBack.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Room\mtmBunkBack.xnb</Output>
-      <Time>2014-04-01T17:26:48.1492315-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Room\mtmBunkBack.xnb</Output>
+      <Time>2014-06-18T10:42:03.4829351-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\mtmPDATimelineButton.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\mtmPDATimelineButton.xnb</Output>
-      <Time>2014-04-01T17:26:47.9612207-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\mtmPDATimelineButton.xnb</Output>
+      <Time>2014-06-18T10:42:03.4729345-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\mtmPDACloseButton.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\mtmPDACloseButton.xnb</Output>
-      <Time>2014-04-01T17:26:47.9582205-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\mtmPDACloseButton.xnb</Output>
+      <Time>2014-06-18T10:42:03.4659341-04:00</Time>
     </Item>
     <Item>
       <Source>roomAssets\mtmDefaultDoor.png</Source>
@@ -151,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\mtmDefaultDoor.xnb</Output>
-      <Time>2014-04-01T17:26:49.2712956-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\mtmDefaultDoor.xnb</Output>
+      <Time>2014-06-18T10:42:03.6869468-04:00</Time>
     </Item>
     <Item>
       <Source>roomAssets\start_room_bg.png</Source>
@@ -160,8 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\start_room_bg.xnb</Output>
-      <Time>2014-04-01T17:26:49.2732958-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\start_room_bg.xnb</Output>
+      <Time>2014-06-18T10:42:03.690947-04:00</Time>
     </Item>
     <Item>
       <Source>Characters\Mayor_Milgrom.png</Source>
@@ -169,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Mayor_Milgrom.xnb</Output>
-      <Time>2014-04-01T17:26:46.7541517-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Mayor_Milgrom.xnb</Output>
+      <Time>2014-06-18T10:42:03.3979302-04:00</Time>
     </Item>
     <Item>
       <Source>Characters\Colonel_Berket.png</Source>
@@ -178,8 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Colonel_Berket.xnb</Output>
-      <Time>2014-04-01T17:26:46.7511515-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Colonel_Berket.xnb</Output>
+      <Time>2014-06-18T10:42:03.39293-04:00</Time>
     </Item>
     <Item>
       <Source>Characters\General_Abraham_Jonnes.png</Source>
@@ -187,8 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\General_Abraham_Jonnes.xnb</Output>
-      <Time>2014-04-01T17:26:46.7521515-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\General_Abraham_Jonnes.xnb</Output>
+      <Time>2014-06-18T10:42:03.39393-04:00</Time>
     </Item>
     <Item>
       <Source>Characters\Isaac_Brewster.png</Source>
@@ -196,8 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Isaac_Brewster.xnb</Output>
-      <Time>2014-04-01T17:26:46.7521515-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Isaac_Brewster.xnb</Output>
+      <Time>2014-06-18T10:42:03.3949301-04:00</Time>
     </Item>
     <Item>
       <Source>Characters\Jose_Sorrez.png</Source>
@@ -205,8 +205,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Jose_Sorrez.xnb</Output>
-      <Time>2014-04-01T17:26:46.7531516-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Jose_Sorrez.xnb</Output>
+      <Time>2014-06-18T10:42:03.3959301-04:00</Time>
     </Item>
     <Item>
       <Source>Characters\Max_Milgrom.png</Source>
@@ -214,8 +214,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Max_Milgrom.xnb</Output>
-      <Time>2014-04-01T17:26:46.7541517-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Max_Milgrom.xnb</Output>
+      <Time>2014-06-18T10:42:03.3969302-04:00</Time>
     </Item>
     <Item>
       <Source>Characters\Agent_Orville.png</Source>
@@ -223,8 +223,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Agent_Orville.xnb</Output>
-      <Time>2014-04-01T17:26:46.7451511-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Agent_Orville.xnb</Output>
+      <Time>2014-06-18T10:42:03.3909298-04:00</Time>
     </Item>
     <Item>
       <Source>Characters\Bryanne_Hogan.png</Source>
@@ -232,8 +232,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Bryanne_Hogan.xnb</Output>
-      <Time>2014-04-01T17:26:46.7461512-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Bryanne_Hogan.xnb</Output>
+      <Time>2014-06-18T10:42:03.3919299-04:00</Time>
     </Item>
     <Item>
       <Source>Characters\president.png</Source>
@@ -241,8 +241,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\president.xnb</Output>
-      <Time>2014-04-01T17:26:46.7591519-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\president.xnb</Output>
+      <Time>2014-06-18T10:42:03.4059307-04:00</Time>
     </Item>
     <Item>
       <Source>Characters\Representative_Dorstaak.png</Source>
@@ -250,8 +250,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Representative_Dorstaak.xnb</Output>
-      <Time>2014-04-01T17:26:46.7551517-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Representative_Dorstaak.xnb</Output>
+      <Time>2014-06-18T10:42:03.3989303-04:00</Time>
     </Item>
     <Item>
       <Source>Characters\Secretary_of_Defense_Thomason.png</Source>
@@ -259,8 +259,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Secretary_of_Defense_Thomason.xnb</Output>
-      <Time>2014-04-01T17:26:46.7551517-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Secretary_of_Defense_Thomason.xnb</Output>
+      <Time>2014-06-18T10:42:03.3999304-04:00</Time>
     </Item>
     <Item>
       <Source>Characters\Secretary_of_State_Smith.png</Source>
@@ -268,8 +268,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Secretary_of_State_Smith.xnb</Output>
-      <Time>2014-04-01T17:26:46.7561518-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Characters\Secretary_of_State_Smith.xnb</Output>
+      <Time>2014-06-18T10:42:03.4009304-04:00</Time>
     </Item>
     <Item>
       <Source>roomAssets\bunks_bg.png</Source>
@@ -277,8 +277,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\bunks_bg.xnb</Output>
-      <Time>2014-04-01T17:26:49.2102921-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\bunks_bg.xnb</Output>
+      <Time>2014-06-18T10:42:03.6759461-04:00</Time>
     </Item>
     <Item>
       <Source>roomAssets\cafeteria_bg.png</Source>
@@ -286,8 +286,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\cafeteria_bg.xnb</Output>
-      <Time>2014-04-01T17:26:49.2682955-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\cafeteria_bg.xnb</Output>
+      <Time>2014-06-18T10:42:03.6819465-04:00</Time>
     </Item>
     <Item>
       <Source>roomAssets\lounge_bg.png</Source>
@@ -295,8 +295,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\lounge_bg.xnb</Output>
-      <Time>2014-04-01T17:26:49.2702956-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\lounge_bg.xnb</Output>
+      <Time>2014-06-18T10:42:03.6849467-04:00</Time>
     </Item>
     <Item>
       <Source>roomAssets\meeting_bg.png</Source>
@@ -304,8 +304,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\meeting_bg.xnb</Output>
-      <Time>2014-04-01T17:26:49.2702956-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\meeting_bg.xnb</Output>
+      <Time>2014-06-18T10:42:03.6859467-04:00</Time>
     </Item>
     <Item>
       <Source>roomAssets\storage_bg.png</Source>
@@ -313,8 +313,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\storage_bg.xnb</Output>
-      <Time>2014-04-01T17:26:49.2742958-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\storage_bg.xnb</Output>
+      <Time>2014-06-18T10:42:03.6919471-04:00</Time>
     </Item>
     <Item>
       <Source>roomAssets\visitor_bg.png</Source>
@@ -322,8 +322,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\visitor_bg.xnb</Output>
-      <Time>2014-04-01T17:26:49.2742958-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\visitor_bg.xnb</Output>
+      <Time>2014-06-18T10:42:03.6929471-04:00</Time>
     </Item>
     <Item>
       <Source>roomAssets\defaultback_bg.png</Source>
@@ -331,8 +331,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\defaultback_bg.xnb</Output>
-      <Time>2014-04-01T17:26:49.2692955-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\defaultback_bg.xnb</Output>
+      <Time>2014-06-18T10:42:03.6829465-04:00</Time>
     </Item>
     <Item>
       <Source>Items\bulletin.png</Source>
@@ -340,8 +340,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Items\bulletin.xnb</Output>
-      <Time>2014-04-01T17:26:46.760152-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Items\bulletin.xnb</Output>
+      <Time>2014-06-18T10:42:03.4079308-04:00</Time>
     </Item>
     <Item>
       <Source>Items\bulletinOverlay.png</Source>
@@ -349,8 +349,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Items\bulletinOverlay.xnb</Output>
-      <Time>2014-04-01T17:26:46.7611521-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Items\bulletinOverlay.xnb</Output>
+      <Time>2014-06-18T10:42:03.4089309-04:00</Time>
     </Item>
     <Item>
       <Source>Items\computer.png</Source>
@@ -358,8 +358,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Items\computer.xnb</Output>
-      <Time>2014-04-01T17:26:46.7611521-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Items\computer.xnb</Output>
+      <Time>2014-06-18T10:42:03.4099309-04:00</Time>
     </Item>
     <Item>
       <Source>Items\computerOverlay.png</Source>
@@ -367,8 +367,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Items\computerOverlay.xnb</Output>
-      <Time>2014-04-01T17:26:46.7721527-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Items\computerOverlay.xnb</Output>
+      <Time>2014-06-18T10:42:03.411931-04:00</Time>
     </Item>
     <Item>
       <Source>gameAssets\convoBackground.png</Source>
@@ -376,8 +376,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\gameAssets\convoBackground.xnb</Output>
-      <Time>2014-04-01T17:26:48.6092578-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\gameAssets\convoBackground.xnb</Output>
+      <Time>2014-06-18T10:42:03.6299435-04:00</Time>
     </Item>
     <Item>
       <Source>roomAssets\button_room_bg.png</Source>
@@ -385,8 +385,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\button_room_bg.xnb</Output>
-      <Time>2014-04-01T17:26:49.2662953-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\button_room_bg.xnb</Output>
+      <Time>2014-06-18T10:42:03.6779463-04:00</Time>
     </Item>
     <Item>
       <Source>roomAssets\frame.png</Source>
@@ -394,8 +394,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\frame.xnb</Output>
-      <Time>2014-04-01T17:26:49.2692955-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\frame.xnb</Output>
+      <Time>2014-06-18T10:42:03.6839466-04:00</Time>
     </Item>
     <Item>
       <Source>roomAssets\president_office_bg.png</Source>
@@ -403,8 +403,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\president_office_bg.xnb</Output>
-      <Time>2014-04-01T17:26:49.2722957-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\president_office_bg.xnb</Output>
+      <Time>2014-06-18T10:42:03.6889469-04:00</Time>
     </Item>
     <Item>
       <Source>roomAssets\armory_bg.png</Source>
@@ -412,8 +412,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\armory_bg.xnb</Output>
-      <Time>2014-04-01T17:26:49.2092921-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\armory_bg.xnb</Output>
+      <Time>2014-06-18T10:42:03.6749461-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\mtmPDABiosButton.png</Source>
@@ -421,8 +421,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\mtmPDABiosButton.xnb</Output>
-      <Time>2014-04-01T17:26:47.9572205-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\mtmPDABiosButton.xnb</Output>
+      <Time>2014-06-18T10:42:03.4649341-04:00</Time>
     </Item>
     <Item>
       <Source>Items\newspaperOverlay.png</Source>
@@ -430,8 +430,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Items\newspaperOverlay.xnb</Output>
-      <Time>2014-04-01T17:26:46.7751529-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Items\newspaperOverlay.xnb</Output>
+      <Time>2014-06-18T10:42:03.4159313-04:00</Time>
     </Item>
     <Item>
       <Source>Pointers\mtmLaunchPointer.png</Source>
@@ -439,8 +439,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Pointers\mtmLaunchPointer.xnb</Output>
-      <Time>2014-04-01T17:26:48.1472313-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Pointers\mtmLaunchPointer.xnb</Output>
+      <Time>2014-06-18T10:42:03.4799349-04:00</Time>
     </Item>
     <Item>
       <Source>Pointers\mtmNoLaunchPointer.png</Source>
@@ -448,8 +448,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Pointers\mtmNoLaunchPointer.xnb</Output>
-      <Time>2014-04-01T17:26:48.1482314-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Pointers\mtmNoLaunchPointer.xnb</Output>
+      <Time>2014-06-18T10:42:03.480935-04:00</Time>
     </Item>
     <Item>
       <Source>start_button.png</Source>
@@ -457,8 +457,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\start_button.xnb</Output>
-      <Time>2014-04-01T17:26:49.2752959-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\start_button.xnb</Output>
+      <Time>2014-06-18T10:42:03.6939472-04:00</Time>
     </Item>
     <Item>
       <Source>continue_button.png</Source>
@@ -466,8 +466,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\continue_button.xnb</Output>
-      <Time>2014-04-01T17:26:48.4322476-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\continue_button.xnb</Output>
+      <Time>2014-06-18T10:42:03.620943-04:00</Time>
     </Item>
     <Item>
       <Source>roomAssets\button_seq.png</Source>
@@ -475,8 +475,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\button_seq.xnb</Output>
-      <Time>2014-04-01T17:26:49.2672954-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\button_seq.xnb</Output>
+      <Time>2014-06-18T10:42:03.6789463-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\Frame.png</Source>
@@ -484,8 +484,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Frame.xnb</Output>
-      <Time>2014-06-18T13:29:33.4940504-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Frame.xnb</Output>
+      <Time>2014-06-18T13:58:03.9455951-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\Contacts\Contacts_Active.png</Source>
@@ -493,8 +493,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Contacts\Contacts_Active.xnb</Output>
-      <Time>2014-06-18T13:29:33.4920503-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Contacts\Contacts_Active.xnb</Output>
+      <Time>2014-06-18T13:58:03.9425949-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\Contacts\Contacts_Example.png</Source>
@@ -502,8 +502,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Contacts\Contacts_Example.xnb</Output>
-      <Time>2014-04-01T17:26:46.813155-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Contacts\Contacts_Example.xnb</Output>
+      <Time>2014-06-18T10:42:03.4489332-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\Contacts\Separator.png</Source>
@@ -511,8 +511,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Contacts\Separator.xnb</Output>
-      <Time>2014-04-01T17:26:46.864158-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Contacts\Separator.xnb</Output>
+      <Time>2014-06-18T10:42:03.4499332-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\Map\Map_Active_Button.png</Source>
@@ -520,8 +520,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Map\Map_Active_Button.xnb</Output>
-      <Time>2014-06-18T13:29:33.4960505-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Map\Map_Active_Button.xnb</Output>
+      <Time>2014-06-18T13:58:03.9475952-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\Map\Map_Example.png</Source>
@@ -529,8 +529,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Map\Map_Example.xnb</Output>
-      <Time>2014-04-01T17:26:46.8671581-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Map\Map_Example.xnb</Output>
+      <Time>2014-06-18T10:42:03.4539334-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\Map\Map_Main_Asset.png</Source>
@@ -538,8 +538,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Map\Map_Main_Asset.xnb</Output>
-      <Time>2014-04-01T17:26:47.6672039-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Map\Map_Main_Asset.xnb</Output>
+      <Time>2014-06-18T10:42:03.4549335-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\Notes\Notes_Active_Button.png</Source>
@@ -547,8 +547,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Notes\Notes_Active_Button.xnb</Output>
-      <Time>2014-06-18T13:29:33.4970506-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Notes\Notes_Active_Button.xnb</Output>
+      <Time>2014-06-18T13:58:03.9495953-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\Notes\Notes_Example.png</Source>
@@ -556,8 +556,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Notes\Notes_Example.xnb</Output>
-      <Time>2014-04-01T17:26:47.6702041-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Notes\Notes_Example.xnb</Output>
+      <Time>2014-06-18T10:42:03.4619339-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\Notes\Separator.png</Source>
@@ -565,8 +565,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Notes\Separator.xnb</Output>
-      <Time>2014-04-01T17:26:47.6922053-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Notes\Separator.xnb</Output>
+      <Time>2014-06-18T10:42:03.462934-04:00</Time>
     </Item>
     <Item>
       <Source>roomAssets\button_seq_push.png</Source>
@@ -574,8 +574,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\button_seq_push.xnb</Output>
-      <Time>2014-04-01T17:26:49.2682955-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\roomAssets\button_seq_push.xnb</Output>
+      <Time>2014-06-18T10:42:03.6809464-04:00</Time>
     </Item>
     <Item>
       <Source>gameAssets\Informed_Inaction.png</Source>
@@ -583,8 +583,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\gameAssets\Informed_Inaction.xnb</Output>
-      <Time>2014-04-01T17:26:48.4342478-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\gameAssets\Informed_Inaction.xnb</Output>
+      <Time>2014-06-18T10:42:03.6249432-04:00</Time>
     </Item>
     <Item>
       <Source>gameAssets\Informed_Launch.png</Source>
@@ -592,8 +592,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\gameAssets\Informed_Launch.xnb</Output>
-      <Time>2014-04-01T17:26:48.4352478-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\gameAssets\Informed_Launch.xnb</Output>
+      <Time>2014-06-18T10:42:03.6259433-04:00</Time>
     </Item>
     <Item>
       <Source>gameAssets\Uninformed_Inaction.png</Source>
@@ -601,8 +601,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\gameAssets\Uninformed_Inaction.xnb</Output>
-      <Time>2014-04-01T17:26:48.6072577-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\gameAssets\Uninformed_Inaction.xnb</Output>
+      <Time>2014-06-18T10:42:03.6279434-04:00</Time>
     </Item>
     <Item>
       <Source>gameAssets\Uninformed_Launch.png</Source>
@@ -610,8 +610,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\gameAssets\Uninformed_Launch.xnb</Output>
-      <Time>2014-04-01T17:26:48.6082577-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\gameAssets\Uninformed_Launch.xnb</Output>
+      <Time>2014-06-18T10:42:03.6289435-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\Notes\scroll_bar.png</Source>
@@ -619,8 +619,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Notes\scroll_bar.xnb</Output>
-      <Time>2014-04-01T17:26:47.6922053-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Notes\scroll_bar.xnb</Output>
+      <Time>2014-06-18T10:42:03.463934-04:00</Time>
     </Item>
     <Item>
       <Source>PDA\Map\locator.png</Source>
@@ -628,8 +628,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Map\locator.xnb</Output>
-      <Time>2014-04-01T17:26:47.6682039-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDA\Map\locator.xnb</Output>
+      <Time>2014-06-18T10:42:03.4559336-04:00</Time>
     </Item>
     <Item>
       <Source>Logos\Minutes_logo.png</Source>
@@ -637,8 +637,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Logos\Minutes_logo.xnb</Output>
-      <Time>2014-04-01T17:26:46.7761529-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Logos\Minutes_logo.xnb</Output>
+      <Time>2014-06-18T10:42:03.4169313-04:00</Time>
     </Item>
     <Item>
       <Source>Logos\Potoo_logo.png</Source>
@@ -646,8 +646,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Logos\Potoo_logo.xnb</Output>
-      <Time>2014-06-18T13:29:33.4890501-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\Logos\Potoo_logo.xnb</Output>
+      <Time>2014-06-18T13:58:03.9405948-04:00</Time>
     </Item>
     <Item>
       <Source>tempFont.spritefont</Source>
@@ -655,8 +655,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\tempFont.xnb</Output>
-      <Time>2014-04-04T00:35:55.5508647-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\tempFont.xnb</Output>
+      <Time>2014-06-18T10:42:03.6969473-04:00</Time>
     </Item>
     <Item>
       <Source>PDAFont.spritefont</Source>
@@ -664,8 +664,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDAFont.xnb</Output>
-      <Time>2014-04-01T17:26:47.9632208-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\PDAFont.xnb</Output>
+      <Time>2014-06-18T10:42:03.4759347-04:00</Time>
     </Item>
     <Item>
       <Source>audio\speaking.wav</Source>
@@ -673,8 +673,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\audio\speaking.xnb</Output>
-      <Time>2014-04-01T17:26:48.4282474-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\audio\speaking.xnb</Output>
+      <Time>2014-06-18T10:42:03.6139426-04:00</Time>
     </Item>
     <Item>
       <Source>audio\walking.wav</Source>
@@ -682,8 +682,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\audio\walking.xnb</Output>
-      <Time>2014-04-01T17:26:48.4312476-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\audio\walking.xnb</Output>
+      <Time>2014-06-18T10:42:03.6199429-04:00</Time>
     </Item>
     <Item>
       <Source>audio\Eureka.mp3</Source>
@@ -691,8 +691,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\audio\Eureka.xnb</Output>
-      <Time>2014-06-18T13:11:59.0317386-04:00</Time>
+      <Output>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\audio\Eureka.xnb</Output>
+      <Time>2014-06-18T12:17:09.2492863-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -700,10 +700,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnightContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnightContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Duncan\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnightContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnightContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Chris_2\Documents\GitHub\Minutes\XNA\MinutesToMidnight\MinutesToMidnight\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -732,7 +732,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2011-10-10T00:48:09.5218326-04:00</Value>
+        <Value>2013-09-26T21:09:26.0540396-04:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

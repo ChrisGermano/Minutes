@@ -2,20 +2,21 @@
   <name>sample</name>
   <responses>
     <Response>
-      <dialog>I heard that there's no cure... but how could they know?</dialog>
+      <dialog>Wouldn't an attack this severe have to come from the inside?</dialog>
       <discovered>false</discovered>
       <importance>low</importance>
       <locked>false</locked>
       <marked>huh</marked>
       <prompt>What do you know</prompt>
 	  <replace>false</replace>
-	  <responsePrompt>Could there be a cure?</responsePrompt>
+	  <responsePrompt></responsePrompt>
       <role>civilian</role>
 	  <specificPerson></specificPerson>
       <verity>true_opinion</verity>
-    </Response>    
+    </Response>
+	
     <Response>
-      <dialog>Do you think this quarantine was enough? What if we're all infected?</dialog>
+      <dialog>Mannage is just a terrorist, he couldn't have pulled this off... right?</dialog>
       <discovered>false</discovered>
       <importance>low</importance>
       <locked>false</locked>
@@ -28,7 +29,7 @@
       <verity>true_opinion</verity>
     </Response>        
 	<Response>
-      <dialog>I heard there's someone here, coughing, making everyone nervous...</dialog>
+      <dialog>Roger Michaelson did this for funding, Swarden Mannage is a scapegoat!</dialog>
       <discovered>false</discovered>
       <importance>low</importance>
       <locked>false</locked>
@@ -37,112 +38,73 @@
 	  <replace>false</replace>
 	  <responsePrompt></responsePrompt>
       <role>civilian</role>
-	  <specificPerson></specificPerson>
+	  <specificPerson>Jose Sorrez</specificPerson>
       <verity>true_opinion</verity>
     </Response>    
     <Response>
-      <dialog>I say we nuke the city. We're safe here, right??</dialog>
+      <dialog>Our people deserve better protection from scum like Mannage.</dialog>
       <discovered>false</discovered>
       <importance>low</importance>
       <locked>false</locked>
       <marked>huh</marked>
       <prompt>What should we do about the situation?</prompt>
 	  <replace>false</replace>
-	  <responsePrompt></responsePrompt>
-      <role>military</role>
+	  <responsePrompt>What did Mannage do?</responsePrompt>
+      <role>politician</role>
 	  <specificPerson></specificPerson>
       <verity>false_opinion</verity>
     </Response>        
 	<Response>
-      <dialog>All there is to do... is pray.</dialog>
+      <dialog>The people are restless, it won't look good if you don't deliver a culprit.</dialog>
       <discovered>false</discovered>
       <importance>low</importance>
       <locked>false</locked>
       <marked>huh</marked>
-      <prompt>What should we do about the situation?</prompt>
+      <prompt></prompt>
 	  <replace>false</replace>
 	  <responsePrompt></responsePrompt>
       <role>politician</role>
 	  <specificPerson></specificPerson>
-      <verity>false_opinion</verity>
+      <verity>true_opinion</verity>
     </Response>    
 	<Response>
-      <dialog>I don't know... there just has to be... right? This cant be the end...</dialog>
+      <dialog>Mannage needs to be put behind bars, I can't see any alternatives.</dialog>
       <discovered>false</discovered>
       <importance>low</importance>
       <locked>false</locked>
       <marked>huh</marked>
-      <prompt>Could there be a cure?</prompt>
+      <prompt></prompt>
 	  <replace>false</replace>
 	  <responsePrompt></responsePrompt>
-      <role>civilian</role>
+      <role>military</role>
 	  <specificPerson></specificPerson>
       <verity>true_opinion</verity>	
     </Response>
 	<Response>
-      <dialog>Not that I've seen... I dont know how someone could come back from... That...</dialog>
+      <dialog>Mannage put a virus on government computers!</dialog>
       <discovered>false</discovered>
       <importance>low</importance>
       <locked>false</locked>
       <marked>huh</marked>
-      <prompt>Could there be a cure?</prompt>
+      <prompt>What did Mannage do?</prompt>
 	  <replace>false</replace>
 	  <responsePrompt></responsePrompt>
       <role>civilian</role>
 	  <specificPerson></specificPerson>
-      <verity>true_opinion</verity>
+      <verity>false_opinion</verity>	
     </Response>
-    <Response>
-      <dialog>The infection spreads quickly... Seems like anyone could be infected</dialog>
+	<Response>
+      <dialog>Last year Mannage released sensitive files in the name of transparency.</dialog>
       <discovered>false</discovered>
       <importance>low</importance>
       <locked>false</locked>
       <marked>huh</marked>
-      <prompt>Have you heard about the symptoms?</prompt>
+      <prompt></prompt>
 	  <replace>false</replace>
-	  <responsePrompt></responsePrompt>
-      <role>politician</role>
-	  <specificPerson></specificPerson>
-      <verity>true_opinion</verity>
-    </Response>
-	<Response>
-      <dialog>I hear it started as a scientific experiment gone wrong!</dialog>
-      <discovered>false</discovered>
-      <importance>medium</importance>
-      <locked>false</locked>
-      <marked>huh</marked>
-      <prompt>What do you know</prompt>
-	  <replace>false</replace>
-	  <responsePrompt>Scientific Experiment?</responsePrompt>
+	  <responsePrompt>Who came forth after the initial leak?</responsePrompt>
       <role>military</role>
 	  <specificPerson></specificPerson>
-      <verity>false_opinion</verity>
-    </Response>	
-	<Response>
-      <dialog>I heard that it causes your limbs to just.. fall off! That's scary!</dialog>
-      <discovered>false</discovered>
-      <importance>medium</importance>
-      <locked>false</locked>
-      <marked>huh</marked>
-      <prompt>What do you know</prompt>
-	  <replace>false</replace>
-	  <responsePrompt>Scientific Experiment?</responsePrompt>
-      <role>military</role>
-	  <specificPerson></specificPerson>
-      <verity>false_opinion</verity>
-    </Response>
-	<Response>
-      <dialog>S...Symptoms?? No... Nothing... I mean... *cough* I.. I feel fine!</dialog>
-      <discovered>false</discovered>
-      <importance>low</importance>
-      <locked>false</locked>
-      <marked>huh</marked>
-      <prompt>Have you heard about the symptoms?</prompt>
-	  <replace>false</replace>
-	  <responsePrompt></responsePrompt>
-      <role>civilian</role>
-	  <specificPerson>"Bryanne Hogan"</specificPerson>
-      <verity>true_opinion</verity>
+      <verity>true_opinion</verity>	
     </Response>
   </responses>
 </Truth>

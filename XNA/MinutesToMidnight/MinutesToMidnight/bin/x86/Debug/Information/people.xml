@@ -1,78 +1,19 @@
 ﻿<People xmlns="http://schemas.datacontract.org/2004/07/MinutesToMidnight" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
 	<name>people</name>
 	<people>
+	
 		<Person>
-			<genericString>I'll let you know if I find out anything.</genericString>
-			<greetingString>How can I help, Mr. President?</greetingString>
-			<guard>0</guard>
-			<locked>false</locked>
-			<name>Minister of Domestic Affairs Smith</name>
-			<overlayname>null</overlayname>
-			<role>politician</role>
-			<texturename>Secretary_of_State_Smith</texturename>
-		</Person>
-		<Person>
-			<genericString>Carry on, then.</genericString>
-			<greetingString>Yes, Mr. President?</greetingString>
-			<guard>0</guard>
-			<locked>false</locked>
-			<name>Minister of Defense Thomason</name>
-			<overlayname>null</overlayname>
-			<role>politician</role>
-			<texturename>Secretary_of_Defense_Thomason</texturename>
-		</Person>
-		<Person>
-			<genericString>Yes sir.</genericString>
-			<greetingString>Mr President?</greetingString>
+			<genericString>*nod*</genericString>
+			<greetingString>*salute*</greetingString>
 			<guard>1</guard>
 			<locked>false</locked>
 			<name>Secret Service Agent</name>
 			<overlayname>null</overlayname>
 			<role>military</role>
 			<texturename>Agent_Orville</texturename>
-		</Person>
+		</Person>	
 		<Person>
-			<genericString>*Salute*</genericString>
-			<greetingString>Commander! Sir! Awaiting Orders!</greetingString>
-			<guard>0</guard>
-			<locked>false</locked>
-			<name>Colonel Jackson</name>
-			<overlayname>null</overlayname>
-			<role>military</role>
-			<texturename>Colonel_Berket</texturename>
-		</Person>
-		<Person>
-			<genericString>P...Please help us...*sniff**sniff*</genericString>
-			<greetingString>*sniff*-Mister President... I... I'm so scared...</greetingString>
-			<guard>0</guard>
-			<locked>false</locked>
-			<name>Isaac Brewster</name>
-			<overlayname>null</overlayname>
-			<role>civilian</role>
-			<texturename>Isaac_Brewster</texturename>
-		</Person>
-		<Person>
-			<genericString>*cough* goodbye, sir! *cough* ...damn cold... *cough*</genericString>
-			<greetingString>*cough*Oh my, Mister -*cough*- President, hello!</greetingString>
-			<guard>0</guard>
-			<locked>false</locked>
-			<name>Bryanne Hogan</name>
-			<overlayname>null</overlayname>
-			<role>civilian</role>
-			<texturename>Bryanne_Hogan</texturename>
-		</Person>
-		<Person>
-			<genericString>Bye.</genericString>
-			<greetingString>Yes, Mr. President? What can I do for you?</greetingString>
-			<guard>0</guard>
-			<locked>false</locked>
-			<name>Jose Sorrez</name>
-			<overlayname>null</overlayname>
-			<role>civilian</role>
-			<texturename>Jose_Sorrez</texturename>
-		</Person>
-		<Person>
-			<genericString>Sir, once you go in there's no turning back.</genericString>
+			<genericString>Sir, once you go in there's no turning back. Are you sure you know what to do?</genericString>
 			<greetingString>*salute*</greetingString>
 			<guard>1</guard>
 			<locked>false</locked>
@@ -80,6 +21,72 @@
 			<overlayname>null</overlayname>
 			<role>military</role>
 			<texturename>Agent_Orville</texturename>
+		</Person>
+
+		<Person>
+			<genericString>Sorry I can't tell you more!</genericString>
+			<greetingString>Yes, Mr. President?</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Isaac Brewster</name>
+			<overlayname>null</overlayname>
+			<role>civilian</role>
+			<texturename>Isaac_Brewster</texturename>
+		</Person>
+		
+		<Person>
+			<genericString>Just my two cents!</genericString>
+			<greetingString>Oh sir, what can I do for you?</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Bryanne Hogan</name>
+			<overlayname>null</overlayname>
+			<role>civilian</role>
+			<texturename>Bryanne_Hogan</texturename>
+		</Person>
+	
+		<Person>
+			<genericString>Go stop the real terrorists!</genericString>
+			<greetingString>This is insane!</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Jose Sorrez</name>
+			<overlayname>null</overlayname>
+			<role>civilian</role>
+			<texturename>Jose_Sorrez</texturename>
+		</Person>
+	
+		<Person>
+			<genericString>Sir.</genericString>
+			<greetingString>Sir, enough stalling.</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Director Roger Michaelson</name>
+			<overlayname>null</overlayname>
+			<role>politician</role>
+			<texturename>Secretary_of_State_Smith</texturename>
+		</Person>
+		
+		<Person>
+			<genericString>I hope you choose soon.</genericString>
+			<greetingString>Hello sir.</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Cabinet Member JJ</name>
+			<overlayname>null</overlayname>
+			<role>politician</role>
+			<texturename>Secretary_of_Defense_Thomason</texturename>
+		</Person>
+		
+		<Person>
+			<genericString>Please think this through.</genericString>
+			<greetingString>Mr. President.</greetingString>
+			<guard>0</guard>
+			<locked>false</locked>
+			<name>Cabinet Member Charles</name>
+			<overlayname>null</overlayname>
+			<role>military</role>
+			<texturename>Colonel_Berket</texturename>
 		</Person>
   </people>
 </People>

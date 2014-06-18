@@ -2,25 +2,25 @@
 	<name>items</name>
 	<items>
 		<Item>
-			<fact>Infection spreads across Washington DC like wildfire</fact>
+			<fact>January 23, 2012: Inactive defense agencies under fire for lacking results.</fact>
 			<locked>false</locked>
 			<name>Newspaper</name>
 			<overlayname>newspaperOverlay</overlayname>
-			<question>What do you know about the Spread of infection?</question>
+			<question></question>
 			<texturename>newspaper</texturename>
 			<type>newspaper</type>
 		</Item>
 		<Item>
-			<fact>Disease transmitted through blood and saliva</fact>
+			<fact>(8/5/12) Funding fell through. We need alternatives. Let's talk soon. -RM</fact>
 			<locked>false</locked>
 			<name>Bulletin Board</name>
 			<overlayname>bulletinOverlay</overlayname>
-			<question>Have you seen anyone with wounds?</question>
+			<question></question>
 			<texturename>bulletin</texturename>
 			<type>bulletin</type>
 		</Item>
 		<Item>
-			<fact>Shiba Inu Voted Cutest Dog Breed In Reader Poll</fact>
+			<fact>March 4, 2013: Infected DMV computers found as part of larger botnet.</fact>
 			<locked>false</locked>
 			<name>Terminal</name>
 			<overlayname>computerOverlay</overlayname>
@@ -29,22 +29,31 @@
 			<type>computer</type>
 		</Item>
 		<Item>
-			<fact>Military general demands immediate action</fact>
+			<fact>July 15, 2013: Defense agency employee was aware of vulnerability.</fact>
 			<locked>false</locked>
 			<name>Newspaper</name>
 			<overlayname>newspaperOverlay</overlayname>
-			<question>What should we do about the situation?</question>
+			<question></question>
 			<texturename>newspaper</texturename>
 			<type>newspaper</type>
 		</Item>
 		<Item>
-			<fact>Infection takes up to 3 Days to show symptoms</fact>
+			<fact>October 10, 2013: Indictment of defense agent sparks additional confessions.</fact>
 			<locked>false</locked>
 			<name>Newspaper</name>
 			<overlayname>newspaperOverlay</overlayname>
-			<question>Have you heard about the symptoms?</question>
+			<question>Who came forth after the initial leak?</question>
 			<texturename>newspaper</texturename>
 			<type>newspaper</type>
+		</Item>
+		<Item>
+			<fact>(10/13/14) Swarden's unreachable, you need to contain this. -JJ</fact>
+			<locked>false</locked>
+			<name>Bulletin Board</name>
+			<overlayname>bulletinOverlay</overlayname>
+			<question></question>
+			<texturename>bulletin</texturename>
+			<type>bulletin</type>
 		</Item>
 	</items>
 </Items>
