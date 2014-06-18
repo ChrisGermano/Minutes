@@ -17,6 +17,7 @@ namespace MinutesToMidnight
         Texture2D texture;
         Texture2D posnpointer;
         Vector2[] room_position;
+        Vector2 map_center;
         int active_room;
 
         public MapScreen(Vector2 pos, int hght, int wdth, float scale)
@@ -32,9 +33,9 @@ namespace MinutesToMidnight
 
         public override void Draw(SpriteBatch spritebatch, GameTime gametime)
         {
-            spritebatch.Draw(texture, position, null, Color.White, 0, new Vector2(0, 0), scalar, SpriteEffects.None, DrawConstants.PDA_SCREEN_LAYER);
+            spritebatch.Draw(texture, map_center, null, Color.White, 0, new Vector2(0, 0), scalar, SpriteEffects.None, DrawConstants.PDA_SCREEN_LAYER);
             Vector2 psn = room_position[active_room];
-            psn = position + psn;
+            psn = map_center + psn;
 
             spritebatch.Draw(posnpointer, psn, null, Color.White, 0f, new Vector2(0, 0), 1f, SpriteEffects.None, DrawConstants.PDA_BUTTON_LAYER);
             Vector2 newpsn = new Vector2(position.X + 40, position.Y + height - 10);
@@ -49,9 +50,9 @@ namespace MinutesToMidnight
             texture = cm.Load<Texture2D>("PDA//Map//Map_Main_Asset");
 
             posnpointer = cm.Load<Texture2D>("PDA//Map//locator");
+            map_center = new Vector2(position.X + (width / 2 - (texture.Width * scalar) / 2), position.Y + (height / 2 - (texture.Width * scalar) / 2));
             height = (int)(texture.Height * scalar);
             width = (int)(texture.Width * scalar);
-
             //room_position[0] = new Vector2(width / 2, height / 10);
             //room_position[1] = new Vector2(9 * (width / 10), height / 3);
             //room_position[2] = new Vector2(.9f * width, 2 * (height / 3));
