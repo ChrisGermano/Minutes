@@ -47,7 +47,7 @@
       <importance>low</importance>
       <locked>false</locked>
       <marked>huh</marked>
-      <prompt>What should we do about the situation?</prompt>
+      <prompt>What do you know</prompt>
 	  <replace>false</replace>
 	  <responsePrompt>What did Mannage do?</responsePrompt>
       <role>politician</role>
@@ -60,7 +60,7 @@
       <importance>low</importance>
       <locked>false</locked>
       <marked>huh</marked>
-      <prompt></prompt>
+      <prompt>What do you know</prompt>
 	  <replace>false</replace>
 	  <responsePrompt></responsePrompt>
       <role>politician</role>
@@ -73,7 +73,7 @@
       <importance>low</importance>
       <locked>false</locked>
       <marked>huh</marked>
-      <prompt></prompt>
+      <prompt>What do you know</prompt>
 	  <replace>false</replace>
 	  <responsePrompt></responsePrompt>
       <role>military</role>
@@ -99,7 +99,7 @@
       <importance>low</importance>
       <locked>false</locked>
       <marked>huh</marked>
-      <prompt></prompt>
+      <prompt>What did Mannage do?</prompt>
 	  <replace>false</replace>
 	  <responsePrompt>Who came forth after the initial leak?</responsePrompt>
       <role>military</role>
