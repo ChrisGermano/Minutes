@@ -44,6 +44,8 @@ namespace MinutesToMidnight
         private String genericString;
         public TextOverlay generic;
 
+        public TextOverlay repeat_answer;
+
         public  TextOverlay generic_answer;
         [DataMember(Name = "guard", IsRequired = true)]
         private int guard;
@@ -117,6 +119,7 @@ namespace MinutesToMidnight
             greeting = new TextOverlay(greetingString, new Vector2(20, 400));
             generic = new TextOverlay(genericString, new Vector2(20, 400));
             generic_answer = new TextOverlay("I'm sorry, I don't know anything about that", new Vector2(20, 400));
+            repeat_answer = new TextOverlay("I'm sorry, I dont know anything else", new Vector2(20, 400));
             responses = new List<Response>();
             responseOverlays = new Dictionary<string, TextOverlay>();
             isGuard = (guard == 1);
@@ -238,7 +241,7 @@ namespace MinutesToMidnight
                 {
                     if (responseOverlays[key].response == prompt)
                     {
-                        return new TextOverlay("I'm sorry, I dont know anything else", responseOverlays[key].position);
+                        return repeat_answer;
                     }
                 }
 

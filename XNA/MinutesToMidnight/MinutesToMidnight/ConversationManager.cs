@@ -106,7 +106,7 @@ namespace MinutesToMidnight
                 }
                 else
                 {
-                    if (current_message != person.greeting && current_message != person.generic && current_message != person.generic_answer)
+                    if (current_message != person.greeting && current_message != person.generic && current_message != person.generic_answer && current_message != person.repeat_answer)
                     {
                         if (current_message.response != null)
                         {

@@ -249,8 +249,8 @@ namespace MinutesToMidnight
             foreach (Person p in loaded_people)
             {
                 p.Initialize();
-                p.addResponse(ref loaded_responses);
                 p.addSpecifics(ref Specifics);
+                p.addResponse(ref loaded_responses);
                 p.createResponseOverlays();
             }
 
