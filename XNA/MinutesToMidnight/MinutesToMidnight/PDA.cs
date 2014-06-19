@@ -45,6 +45,10 @@ namespace MinutesToMidnight
 
         public void Close()
         {
+            if (active_screen == "timeline")
+            {
+                ((TimelineScreen)screens[active_screen]).ScrollToTop();
+            }
             this.Active = false;
         }
 
@@ -54,6 +58,10 @@ namespace MinutesToMidnight
         }
 
         private void SetScreenMap() {
+            if (active_screen == "timeline")
+            {
+                ((TimelineScreen)screens[active_screen]).ScrollToTop();
+            }
             SetScreen("map");
         }
 
@@ -64,6 +72,10 @@ namespace MinutesToMidnight
 
         private void SetScreenBios()
         {
+            if (active_screen == "timeline")
+            {
+                ((TimelineScreen)screens[active_screen]).ScrollToTop();
+            }
             SetScreen("bios");
         }
 

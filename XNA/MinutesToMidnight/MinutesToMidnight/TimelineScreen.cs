@@ -63,6 +63,13 @@ namespace MinutesToMidnight
             }
         }
 
+        public void ScrollToTop()
+        {
+            while(starting_index > 0)
+            {
+                ScrollUp();
+            }
+        }
         public override void Draw(SpriteBatch spritebatch, GameTime gametime)
         {
             int total_height = 0;
