@@ -108,10 +108,13 @@ namespace MinutesToMidnight
                 {
                     if (current_message != person.greeting && current_message != person.generic && current_message != person.generic_answer)
                     {
-                        if (current_message.response != null && current_message.response != "")
+                        if (current_message.response != null)
                         {
                             InfoToAdd = new DialogInfo(current_message.text, person.name, current_message.response);
-                            questions.AddQuestion(current_message.response);
+                            if (current_message.response != "")
+                            {
+                                questions.AddQuestion(current_message.response);
+                            }
                         }
                     }
                 }

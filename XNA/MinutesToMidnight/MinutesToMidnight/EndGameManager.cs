@@ -71,7 +71,6 @@ namespace MinutesToMidnight
         public void getResults()
         {
             completion = (pdaInfo.Count / totalResponses.Count);
-            completion %= 0.1f;
 
             accuracy = 0;
 
@@ -111,12 +110,13 @@ namespace MinutesToMidnight
             }
 
         }
+
         //function called when button is closed
         public void Close()
         {
             animator.SetState(AnimationState.CLOSE);
             game_over = true;
-            if (completion > 0.5 && (accuracy > (pdaInfo.Count/3)))
+            if (completion > 0.5 && (accuracy > (pdaInfo.Count/4)))
             {
                 newspaper = newspapers["informedinaction"];
             }

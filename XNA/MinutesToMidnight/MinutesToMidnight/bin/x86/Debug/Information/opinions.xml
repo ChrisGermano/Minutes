@@ -9,7 +9,7 @@
       <marked>huh</marked>
       <prompt>What do you know</prompt>
 	  <replace>false</replace>
-	  <responsePrompt></responsePrompt>
+	  <responsePrompt>Why would it come from the inside</responsePrompt>
       <role>civilian</role>
 	  <specificPerson></specificPerson>
       <verity>true_opinion</verity>
@@ -49,7 +49,7 @@
       <marked>huh</marked>
       <prompt>What do you know</prompt>
 	  <replace>false</replace>
-	  <responsePrompt>What did Mannage do?</responsePrompt>
+	  <responsePrompt>What did Mannage do</responsePrompt>
       <role>politician</role>
 	  <specificPerson></specificPerson>
       <verity>false_opinion</verity>
@@ -81,12 +81,51 @@
       <verity>true_opinion</verity>	
     </Response>
 	<Response>
+      <dialog>Conspiracy theorists think it was for defense funding.</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>Why would it come from the inside</prompt>
+	  <replace>false</replace>
+	  <responsePrompt></responsePrompt>
+      <role>military</role>
+	  <specificPerson></specificPerson>
+      <verity>true_opinion</verity>	
+    </Response>
+	<Response>
+      <dialog>Michaelson told Mannage to do it, they're in it together!</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>Why would it come from the inside</prompt>
+	  <replace>false</replace>
+	  <responsePrompt></responsePrompt>
+      <role>civilian</role>
+	  <specificPerson></specificPerson>
+      <verity>false_opinion</verity>	
+    </Response>
+	<Response>
+      <dialog>It's absurd, but Michaelson hasn't gotten funding this quarter.</dialog>
+      <discovered>false</discovered>
+      <importance>low</importance>
+      <locked>false</locked>
+      <marked>huh</marked>
+      <prompt>Why would it come from the inside</prompt>
+	  <replace>false</replace>
+	  <responsePrompt></responsePrompt>
+      <role>politician</role>
+	  <specificPerson></specificPerson>
+      <verity>true_opinion</verity>	
+    </Response>
+	<Response>
       <dialog>Mannage put a virus on government computers!</dialog>
       <discovered>false</discovered>
       <importance>low</importance>
       <locked>false</locked>
       <marked>huh</marked>
-      <prompt>What did Mannage do?</prompt>
+      <prompt>What did Mannage do</prompt>
 	  <replace>false</replace>
 	  <responsePrompt></responsePrompt>
       <role>civilian</role>
@@ -99,9 +138,9 @@
       <importance>low</importance>
       <locked>false</locked>
       <marked>huh</marked>
-      <prompt>What did Mannage do?</prompt>
+      <prompt>What did Mannage do</prompt>
 	  <replace>false</replace>
-	  <responsePrompt>Who came forth after the initial leak?</responsePrompt>
+	  <responsePrompt></responsePrompt>
       <role>military</role>
 	  <specificPerson></specificPerson>
       <verity>true_opinion</verity>	
