@@ -70,6 +70,8 @@ namespace MinutesToMidnight
                 ScrollUp();
             }
         }
+
+        
         public override void Draw(SpriteBatch spritebatch, GameTime gametime)
         {
             int total_height = 0;
@@ -193,7 +195,7 @@ namespace MinutesToMidnight
             knowledge.Add(newFact);
         }
 
-        public List<TextOverlay> GetKnowledge()
+        public override List<TextOverlay> GetKnowledge()
         {
             return knowledge;
         }

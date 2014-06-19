@@ -362,7 +362,7 @@ namespace MinutesToMidnight
                                 {
                                     bunker.rooms[9].bb.used = true;
                                     gameRunning = false;
-                                    egm.Initialize(pda.screens["timeline"].knowledge, getAllResponses());
+                                    egm.Initialize(pda.screens["timeline"].GetKnowledge(), getAllResponses());
                                 }
                                 else if (tempBG.overlays[2].isMouseOver(new Vector2(mouse_x, mouse_y)))
                                 {
@@ -412,7 +412,7 @@ namespace MinutesToMidnight
                                         bunker.rooms[9].bb.used = true;
                                         gameRunning = false;
                                         Console.WriteLine("screens: " + pda.screens["timeline"].knowledge);
-                                        egm.Initialize(pda.screens["timeline"].knowledge, getAllResponses());
+                                        egm.Initialize(pda.screens["timeline"].GetKnowledge(), getAllResponses());
                                     }
                                 }
                                 else if (mouse_type == MouseType.BUNKER_BUTTON_BUTTON)
@@ -423,7 +423,7 @@ namespace MinutesToMidnight
                                         bunker.rooms[9].bb.used = true;
                                         gameRunning = false;
                                         Console.WriteLine("screens: " + pda.screens["timeline"].knowledge);
-                                        egm.Initialize(pda.screens["timeline"].knowledge, getAllResponses());
+                                        egm.Initialize(pda.screens["timeline"].GetKnowledge(), getAllResponses());
                                     }
                                 }
                                 else

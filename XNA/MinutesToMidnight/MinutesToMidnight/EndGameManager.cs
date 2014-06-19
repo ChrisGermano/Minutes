@@ -54,7 +54,7 @@ namespace MinutesToMidnight
         public void Initialize(List<TextOverlay> know, List<Response> allRes)
         {
             paper_position = new Vector2(25, Game1.screen_size.Y);
-            pdaInfo = (know == null) ? new List<TextOverlay>() : know;
+            pdaInfo = know;
             totalResponses = allRes;
             getResults();
             zoom_button_position = new Vector2(Game1.screen_size.X / 2 - 100, 0);
